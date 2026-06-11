@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-11T03:07:44.668410+00:00",
+ "generated_at": "2026-06-11T03:38:26.345460+00:00",
  "count": 133,
  "categories": [
   {
@@ -12,7 +12,7 @@
   },
   {
    "name": "Tracing & Spans",
-   "count": 23
+   "count": 21
   },
   {
    "name": "LLMOps Platforms",
@@ -24,7 +24,7 @@
   },
   {
    "name": "Drift & ML Monitoring",
-   "count": 10
+   "count": 12
   }
  ],
  "items": [
@@ -35,7 +35,7 @@
    "url": "https://github.com/langfuse/langfuse",
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 28881,
+   "stars": 28883,
    "forks": 2991,
    "open_issues": 677,
    "language": "TypeScript",
@@ -114,7 +114,7 @@
    "open_issues": 584,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-06-11T02:41:16Z",
+   "pushed_at": "2026-06-11T03:28:40Z",
    "created_at": "2022-11-09T23:44:35Z",
    "description": "AI Observability & Evaluation",
    "topics": [
@@ -146,7 +146,7 @@
    "url": "https://github.com/traceloop/openllmetry",
    "owner": "traceloop",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
-   "stars": 7186,
+   "stars": 7187,
    "forks": 990,
    "open_issues": 541,
    "language": "Python",
@@ -260,10 +260,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/98949449?v=4",
    "stars": 4081,
    "forks": 326,
-   "open_issues": 37,
+   "open_issues": 38,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-06-10T18:19:52Z",
+   "pushed_at": "2026-06-11T03:17:05Z",
    "created_at": "2024-06-28T11:16:02Z",
    "description": "Latitude is the open-source ai monitoring platform.",
    "topics": [
@@ -277,7 +277,7 @@
     "llm-tools"
    ],
    "category": "Agent Observability",
-   "momentum": 76,
+   "momentum": 77,
    "rank": 7
   },
   {
@@ -478,7 +478,7 @@
    "url": "https://github.com/liaohch3/claude-tap",
    "owner": "liaohch3",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34056481?v=4",
-   "stars": 1634,
+   "stars": 1637,
    "forks": 176,
    "open_issues": 27,
    "language": "Python",
@@ -539,7 +539,7 @@
    "url": "https://github.com/Javis603/token-monitor",
    "owner": "Javis603",
    "owner_avatar": "https://avatars.githubusercontent.com/u/81982673?v=4",
-   "stars": 161,
+   "stars": 162,
    "forks": 6,
    "open_issues": 5,
    "language": "JavaScript",
@@ -745,7 +745,7 @@
     "opentelemetry-javascript",
     "typescript"
    ],
-   "category": "Tracing & Spans",
+   "category": "Drift & ML Monitoring",
    "momentum": 64,
    "rank": 20
   },
@@ -1060,7 +1060,7 @@
    "url": "https://github.com/msfirebird/claw-lens",
    "owner": "msfirebird",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5525046?v=4",
-   "stars": 405,
+   "stars": 406,
    "forks": 41,
    "open_issues": 0,
    "language": "TypeScript",
@@ -1340,10 +1340,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/5688247?v=4",
    "stars": 28,
    "forks": 1,
-   "open_issues": 0,
+   "open_issues": 1,
    "language": "Rust",
    "license": "Apache-2.0",
-   "pushed_at": "2026-06-11T02:45:48Z",
+   "pushed_at": "2026-06-11T03:26:49Z",
    "created_at": "2026-04-08T01:18:41Z",
    "description": "Agent and LLM API performance monitoring via network packet probe. Measures performance of OpenClaw, Claude, Codex, DeepAgents and more — deployed on the provider side, no SDK changes required.",
    "topics": [
@@ -2540,10 +2540,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/5212808?v=4",
    "stars": 13,
    "forks": 1,
-   "open_issues": 23,
+   "open_issues": 26,
    "language": "TypeScript",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-06-11T02:31:42Z",
+   "pushed_at": "2026-06-11T03:37:39Z",
    "created_at": "2026-05-08T07:34:30Z",
    "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
    "topics": [
@@ -3679,66 +3679,6 @@
    "rank": 110
   },
   {
-   "name": "oss-llmops-stack",
-   "full_name": "langfuse/oss-llmops-stack",
-   "slug": "langfuse-oss-llmops-stack",
-   "url": "https://github.com/langfuse/oss-llmops-stack",
-   "owner": "langfuse",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 140,
-   "forks": 7,
-   "open_issues": 1,
-   "language": "",
-   "license": "MIT",
-   "pushed_at": "2025-02-15T22:52:18Z",
-   "created_at": "2025-02-08T16:59:06Z",
-   "description": "Modular, open source LLMOps stack that separates concerns: LiteLLM unifies LLM APIs, manages routing and cost controls, and ensures high-availability, while Langfuse focuses on detailed observability, prompt versioning, and performance evaluations.",
-   "topics": [
-    "ai-gateway",
-    "gateway",
-    "llm",
-    "llm-evaluation",
-    "llm-gateway",
-    "llm-observability",
-    "llmops",
-    "monitoring",
-    "open-source",
-    "openai-proxy",
-    "prompt-management",
-    "self-hosted",
-    "ycombinator"
-   ],
-   "category": "Online Evaluation",
-   "momentum": 27,
-   "rank": 111
-  },
-  {
-   "name": "ai-system",
-   "full_name": "liguodongiot/ai-system",
-   "slug": "liguodongiot-ai-system",
-   "url": "https://github.com/liguodongiot/ai-system",
-   "owner": "liguodongiot",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/13220186?v=4",
-   "stars": 140,
-   "forks": 23,
-   "open_issues": 0,
-   "language": "HTML",
-   "license": "Apache-2.0",
-   "pushed_at": "2025-05-26T07:23:17Z",
-   "created_at": "2023-02-23T02:56:50Z",
-   "description": "LLM/MLOps/LLMOps",
-   "topics": [
-    "ai-system",
-    "llm",
-    "llmops",
-    "mlops",
-    "modelops"
-   ],
-   "category": "LLMOps Platforms",
-   "momentum": 27,
-   "rank": 112
-  },
-  {
    "name": "go-openllmetry",
    "full_name": "traceloop/go-openllmetry",
    "slug": "traceloop-go-openllmetry",
@@ -3767,9 +3707,9 @@
     "open-telemetry",
     "opentelemetry"
    ],
-   "category": "Tracing & Spans",
+   "category": "Drift & ML Monitoring",
    "momentum": 27,
-   "rank": 113
+   "rank": 111
   },
   {
    "name": "GPT-OSS-MoE-ExpertFingerprinting",
@@ -3810,6 +3750,66 @@
    ],
    "category": "Online Evaluation",
    "momentum": 27,
+   "rank": 112
+  },
+  {
+   "name": "oss-llmops-stack",
+   "full_name": "langfuse/oss-llmops-stack",
+   "slug": "langfuse-oss-llmops-stack",
+   "url": "https://github.com/langfuse/oss-llmops-stack",
+   "owner": "langfuse",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
+   "stars": 140,
+   "forks": 7,
+   "open_issues": 1,
+   "language": "",
+   "license": "MIT",
+   "pushed_at": "2025-02-15T22:52:18Z",
+   "created_at": "2025-02-08T16:59:06Z",
+   "description": "Modular, open source LLMOps stack that separates concerns: LiteLLM unifies LLM APIs, manages routing and cost controls, and ensures high-availability, while Langfuse focuses on detailed observability, prompt versioning, and performance evaluations.",
+   "topics": [
+    "ai-gateway",
+    "gateway",
+    "llm",
+    "llm-evaluation",
+    "llm-gateway",
+    "llm-observability",
+    "llmops",
+    "monitoring",
+    "open-source",
+    "openai-proxy",
+    "prompt-management",
+    "self-hosted",
+    "ycombinator"
+   ],
+   "category": "Online Evaluation",
+   "momentum": 26,
+   "rank": 113
+  },
+  {
+   "name": "ai-system",
+   "full_name": "liguodongiot/ai-system",
+   "slug": "liguodongiot-ai-system",
+   "url": "https://github.com/liguodongiot/ai-system",
+   "owner": "liguodongiot",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/13220186?v=4",
+   "stars": 140,
+   "forks": 23,
+   "open_issues": 0,
+   "language": "HTML",
+   "license": "Apache-2.0",
+   "pushed_at": "2025-05-26T07:23:17Z",
+   "created_at": "2023-02-23T02:56:50Z",
+   "description": "LLM/MLOps/LLMOps",
+   "topics": [
+    "ai-system",
+    "llm",
+    "llmops",
+    "mlops",
+    "modelops"
+   ],
+   "category": "LLMOps Platforms",
+   "momentum": 26,
    "rank": 114
   },
   {
