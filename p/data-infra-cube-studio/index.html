@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>data-infra/cube-studio — LLMOps Platforms | The Observability Index</title>
+<meta name="description" content="cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计算，自动化标注平台，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库llmops智能体，AI模型市场，支持国产异构算力调度,昇腾/寒武纪/海光/摩尔/沐曦等，支持ib/roce/RDMA，信创支持">
+<link rel="canonical" href="https://observability.kymatalabs.com/p/data-infra-cube-studio/">
+<meta name="robots" content="index,follow">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://observability.kymatalabs.com/p/data-infra-cube-studio/">
+<meta property="og:title" content="data-infra/cube-studio — The Observability Index">
+<meta property="og:description" content="cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计算，自动化标注平台，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库llmops智能体，AI模型市场，支持国产异构算力调度,昇腾/寒武纪/海光/摩尔/沐曦等，支持ib/roce/RDMA，信创支持">
+<meta property="og:image" content="https://observability.kymatalabs.com/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Saira:wght@500;600;700;800&family=B612+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareSourceCode", "name": "data-infra/cube-studio", "description": "cubestudio\u5f00\u6e90\u4e91\u539f\u751f\u4e00\u7ad9\u5f0f\u673a\u5668\u5b66\u4e60/\u6df1\u5ea6\u5b66\u4e60/\u5927\u6a21\u578bAI\u5e73\u53f0/MaaS/mlops/\u4eba\u5de5\u667a\u80fd\u5e73\u53f0/\u8bad\u63a8\u5e73\u53f0\uff0c\u7b97\u6cd5\u5168\u94fe\u8def\u6d41\u7a0b\uff0c\u591a\u79df\u6237\uff0c\u7b97\u529b\u79df\u8d41\u5e73\u53f0\uff0ctoken\u4e2d\u8f6c\uff0c\u62d6\u62c9\u62fd\u4efb\u52a1\u6d41pipeline\u7f16\u6392\uff0c\u591a\u673a\u591a\u5361\u5206\u5e03\u5f0f\u8bad\u7ec3\uff0c\u8d85\u53c2\u641c\u7d22\uff0c\u63a8\u7406\u670d\u52a1\uff0cVGPU\u865a\u62df\u5316\uff0c\u4e91\u8fb9\u7aef\u534f\u540c\uff0c\u8fb9\u7f18\u8ba1\u7b97\uff0c\u81ea\u52a8\u5316\u6807\u6ce8\u5e73\u53f0\uff0cdeepseek\u7b49\u5927\u6a21\u578bsft\u5fae\u8c03/\u5956\u52b1\u6a21\u578b/\u5f3a\u5316\u5b66\u4e60\u8bad\u7ec3\uff0cvllm/ollama/mindie\u5927\u6a21\u578b\u591a\u673a\u63a8\u7406\uff0c\u79c1\u6709\u77e5\u8bc6\u5e93llmops\u667a\u80fd\u4f53\uff0cAI\u6a21\u578b\u5e02\u573a\uff0c\u652f\u6301\u56fd\u4ea7\u5f02\u6784\u7b97\u529b\u8c03\u5ea6,\u6607\u817e/\u5bd2\u6b66\u7eaa/\u6d77\u5149/\u6469\u5c14/\u6c90\u66e6\u7b49\uff0c\u652f\u6301ib/roce/RDMA\uff0c\u4fe1\u521b\u652f\u6301", "url": "https://observability.kymatalabs.com/p/data-infra-cube-studio/", "codeRepository": "https://github.com/data-infra/cube-studio", "programmingLanguage": "Python", "author": {"@type": "Person", "name": "data-infra"}, "license": "NOASSERTION"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "The Observability Index", "item": "https://observability.kymatalabs.com/"}, {"@type": "ListItem", "position": 2, "name": "data-infra/cube-studio", "item": "https://observability.kymatalabs.com/p/data-infra-cube-studio/"}]}</script>
+<script>var t;try{t=localStorage.getItem('dsx-theme')}catch(e){}if(t)document.documentElement.setAttribute('data-theme',t);</script>
+</head>
+<body>
+<div class="kstrip"><div class="wrap"><a href="https://www.kymatalabs.com" target="_blank" rel="noopener"><span class="dot"></span>Kymata Labs</a><span class="sep">/</span><a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">The Living Indexes</a><span class="grow"></span><a href="https://www.kymatalabs.com/live" target="_blank" rel="noopener">Built by tekvisions ↗</a></div></div>
+<header><div class="wrap head-row">
+  <div class="brand"><a href="/"><span class="node"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="disp">Observability <em>Index</em></span></a></div>
+  <div class="head-actions"><a href="/">← All tools</a><button class="theme-btn" id="theme" aria-label="Toggle console / daylight">◐</button></div>
+</div></header>
+<main class="wrap detail">
+  <div class="crumb"><a href="/">The Observability Index</a> / LLMOps Platforms / #15</div>
+  <div class="detail-head"><img class="av" src="https://avatars.githubusercontent.com/u/20157705?v=4&s=160" alt="data-infra" onerror="this.style.display=&#39;none&#39;"><div><h1 class="disp">data-infra/cube-studio</h1>
+    <div class="sub">by data-infra · LLMOps Platforms · updated today</div></div></div>
+  <p class="desc-big">cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计算，自动化标注平台，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库llmops智能体，AI模型市场，支持国产异构算力调度,昇腾/寒武纪/海光/摩尔/沐曦等，支持ib/roce/RDMA，信创支持</p>
+  <div class="detail-stats">
+    <div class="box"><div class="num disp">73</div><div class="lbl">momentum</div></div>
+    <div class="box"><div class="num disp">2,313</div><div class="lbl">stars</div></div>
+    <div class="box"><div class="num disp">180</div><div class="lbl">forks</div></div>
+    <div class="box"><div class="num disp">#15</div><div class="lbl">rank</div></div>
+  </div>
+  <div class="topics"><span class="topic">ai-platform</span><span class="topic">ascend</span><span class="topic">automl</span><span class="topic">cube-studio</span><span class="topic">deepseek</span><span class="topic">inference</span><span class="topic">kubernetes</span><span class="topic">llmops</span><span class="topic">mass</span><span class="topic">mlops</span><span class="topic">npu</span><span class="topic">pipeline</span></div>
+  <a class="cta" href="https://github.com/data-infra/cube-studio" target="_blank" rel="noopener">View on GitHub →</a>
+  <div class="related"><h2 class="disp">More in LLMOps Platforms</h2><div class="grid"><a class="card in" href="/p/clearml-clearml-agent/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/38647316?v=4&s=84" loading="lazy" alt="clearml" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">clearml-agent</div><div class="owner">clearml</div></div><span class="rank disp">40</span></div><span class="cat">LLMOps Platforms</span><div class="desc">ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler &amp; orchestration solution</div></a><a class="card in" href="/p/gaearuiw-kube-llmops/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/166901228?v=4&s=84" loading="lazy" alt="GaeaRuiW" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">kube-llmops</div><div class="owner">GaeaRuiW</div></div><span class="rank disp">48</span></div><span class="cat">LLMOps Platforms</span><div class="desc"></div></a><a class="card in" href="/p/llmops-build-llmops/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/247468229?v=4&s=84" loading="lazy" alt="llmops-build" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">llmops</div><div class="owner">llmops-build</div></div><span class="rank disp">52</span></div><span class="cat">LLMOps Platforms</span><div class="desc">A pluggable LLMOps toolkit for TypeScript applications.</div></a><a class="card in" href="/p/getaxonflow-axonflow/"><div class="card-top"><img class="av" src="https://avatars.githubusercontent.com/u/239772217?v=4&s=84" loading="lazy" alt="getaxonflow" onerror="this.style.display=&#39;none&#39;"><div class="id"><div class="name disp">axonflow</div><div class="owner">getaxonflow</div></div><span class="rank disp">58</span></div><span class="cat">LLMOps Platforms</span><div class="desc">AxonFlow: Runtime control layer for production AI</div></a></div></div>
+</main>
+<footer><div class="wrap foot-row">
+  <div class="blurb">The Observability Index is a self-updating map of the LLM &amp; AI observability stack, recomputed daily from live GitHub signals. Part of <a href="https://indexes.kymatalabs.com">The Living Indexes</a> by Kymata Labs.</div>
+  <div class="links"><div class="grouphead">The network</div><a href="https://www.kymatalabs.com" target="_blank" rel="noopener">Kymata Labs ↗</a><a href="https://indexes.kymatalabs.com" target="_blank" rel="noopener">↗ The Living Indexes</a><a href="/">All tools</a><a href="/rss.xml">RSS</a></div>
+</div></footer>
+<script>document.getElementById('theme').addEventListener('click',function(){var c=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';document.documentElement.setAttribute('data-theme',c);try{localStorage.setItem('dsx-theme',c)}catch(e){}});</script>
+</body>
+</html>
