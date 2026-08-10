@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T11:50:36.173048+00:00",
- "count": 149,
+ "generated_at": "2026-08-10T12:04:18.312596+00:00",
+ "count": 148,
  "categories": [
   {
    "name": "Agent Observability",
@@ -20,7 +20,7 @@
   },
   {
    "name": "Online Evaluation",
-   "count": 18
+   "count": 17
   },
   {
    "name": "Drift & ML Monitoring",
@@ -35,12 +35,12 @@
    "url": "https://github.com/langfuse/langfuse",
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 32771,
-   "forks": 3519,
-   "open_issues": 761,
+   "stars": 32819,
+   "forks": 3529,
+   "open_issues": 753,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-09T07:57:28Z",
+   "pushed_at": "2026-08-10T12:00:14Z",
    "created_at": "2023-05-18T17:47:09Z",
    "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
    "topics": [
@@ -75,12 +75,12 @@
    "url": "https://github.com/comet-ml/opik",
    "owner": "comet-ml",
    "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
-   "stars": 21243,
-   "forks": 1689,
-   "open_issues": 177,
+   "stars": 21272,
+   "forks": 1694,
+   "open_issues": 183,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-09T11:13:25Z",
+   "pushed_at": "2026-08-10T11:55:52Z",
    "created_at": "2023-05-10T12:57:13Z",
    "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
    "topics": [
@@ -109,12 +109,12 @@
    "url": "https://github.com/Arize-ai/phoenix",
    "owner": "Arize-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/59858760?v=4",
-   "stars": 10956,
-   "forks": 1045,
-   "open_issues": 862,
+   "stars": 10968,
+   "forks": 1048,
+   "open_issues": 866,
    "language": "Python",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-09T09:49:36Z",
+   "pushed_at": "2026-08-10T03:46:16Z",
    "created_at": "2022-11-09T23:44:35Z",
    "description": "AI Observability & Evaluation",
    "topics": [
@@ -146,9 +146,9 @@
    "url": "https://github.com/evidentlyai/evidently",
    "owner": "evidentlyai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/75031056?v=4",
-   "stars": 7793,
-   "forks": 895,
-   "open_issues": 295,
+   "stars": 7794,
+   "forks": 896,
+   "open_issues": 297,
    "language": "Jupyter Notebook",
    "license": "Apache-2.0",
    "pushed_at": "2026-08-05T16:29:57Z",
@@ -181,12 +181,12 @@
    "url": "https://github.com/traceloop/openllmetry",
    "owner": "traceloop",
    "owner_avatar": "https://avatars.githubusercontent.com/u/125419530?v=4",
-   "stars": 7365,
-   "forks": 1045,
+   "stars": 7366,
+   "forks": 1046,
    "open_issues": 631,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-09T10:06:29Z",
+   "pushed_at": "2026-08-10T08:49:01Z",
    "created_at": "2023-09-02T14:42:59Z",
    "description": "Open-source observability for your GenAI or LLM application, based on OpenTelemetry",
    "topics": [
@@ -220,12 +220,12 @@
    "url": "https://github.com/builderz-labs/mission-control",
    "owner": "builderz-labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/108542510?v=4",
-   "stars": 5964,
-   "forks": 31,
-   "open_issues": 13,
+   "stars": 5968,
+   "forks": 32,
+   "open_issues": 14,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-08-03T00:23:08Z",
+   "pushed_at": "2026-08-10T00:25:58Z",
    "created_at": "2026-02-13T04:06:19Z",
    "description": "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.",
    "topics": [
@@ -246,7 +246,7 @@
     "typescript"
    ],
    "category": "Agent Observability",
-   "momentum": 77,
+   "momentum": 78,
    "rank": 6
   },
   {
@@ -256,12 +256,12 @@
    "url": "https://github.com/latitude-dev/latitude-llm",
    "owner": "latitude-dev",
    "owner_avatar": "https://avatars.githubusercontent.com/u/98949449?v=4",
-   "stars": 4569,
+   "stars": 4576,
    "forks": 378,
-   "open_issues": 130,
+   "open_issues": 112,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-08-09T08:08:50Z",
+   "pushed_at": "2026-08-10T11:02:04Z",
    "created_at": "2024-06-28T11:16:02Z",
    "description": "Latitude is the open-source AI monitoring platform.",
    "topics": [
@@ -285,12 +285,12 @@
    "url": "https://github.com/mikehasa/agentacct",
    "owner": "mikehasa",
    "owner_avatar": "https://avatars.githubusercontent.com/u/91774998?v=4",
-   "stars": 562,
-   "forks": 67,
+   "stars": 573,
+   "forks": 68,
    "open_issues": 2,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-09T11:07:36Z",
+   "pushed_at": "2026-08-10T11:03:33Z",
    "created_at": "2026-07-24T16:28:06Z",
    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
    "topics": [
@@ -325,12 +325,12 @@
    "url": "https://github.com/Agenta-AI/agenta",
    "owner": "Agenta-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/127993667?v=4",
-   "stars": 4450,
-   "forks": 611,
-   "open_issues": 255,
+   "stars": 4455,
+   "forks": 613,
+   "open_issues": 285,
    "language": "TypeScript",
    "license": "NOASSERTION",
-   "pushed_at": "2026-08-09T11:30:42Z",
+   "pushed_at": "2026-08-10T11:49:16Z",
    "created_at": "2023-04-26T09:54:28Z",
    "description": "Agenta is a workspace where you and your team build agents and automations.",
    "topics": [
@@ -361,12 +361,12 @@
    "url": "https://github.com/pydantic/logfire",
    "owner": "pydantic",
    "owner_avatar": "https://avatars.githubusercontent.com/u/110818415?v=4",
-   "stars": 4416,
-   "forks": 272,
-   "open_issues": 259,
+   "stars": 4417,
+   "forks": 273,
+   "open_issues": 263,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-09T02:17:33Z",
+   "pushed_at": "2026-08-10T06:48:33Z",
    "created_at": "2024-04-23T11:50:23Z",
    "description": "AI observability platform for production LLM and agent systems.",
    "topics": [
@@ -398,8 +398,8 @@
    "url": "https://github.com/Helicone/helicone",
    "owner": "Helicone",
    "owner_avatar": "https://avatars.githubusercontent.com/u/114524975?v=4",
-   "stars": 6048,
-   "forks": 647,
+   "stars": 6049,
+   "forks": 648,
    "open_issues": 160,
    "language": "TypeScript",
    "license": "Apache-2.0",
@@ -438,9 +438,9 @@
    "url": "https://github.com/truera/trulens",
    "owner": "truera",
    "owner_avatar": "https://avatars.githubusercontent.com/u/51224128?v=4",
-   "stars": 3495,
+   "stars": 3498,
    "forks": 319,
-   "open_issues": 51,
+   "open_issues": 53,
    "language": "Python",
    "license": "MIT",
    "pushed_at": "2026-08-07T14:21:57Z",
@@ -472,12 +472,12 @@
    "url": "https://github.com/langwatch/langwatch",
    "owner": "langwatch",
    "owner_avatar": "https://avatars.githubusercontent.com/u/146763322?v=4",
-   "stars": 3480,
-   "forks": 340,
-   "open_issues": 784,
+   "stars": 3483,
+   "forks": 342,
+   "open_issues": 805,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-09T11:39:54Z",
+   "pushed_at": "2026-08-10T12:03:42Z",
    "created_at": "2023-09-09T11:33:18Z",
    "description": "The platform for LLM evaluations and AI agent testing",
    "topics": [
@@ -506,12 +506,12 @@
    "url": "https://github.com/lmnr-ai/lmnr",
    "owner": "lmnr-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161496104?v=4",
-   "stars": 3155,
+   "stars": 3158,
    "forks": 220,
-   "open_issues": 105,
+   "open_issues": 104,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-07T12:51:04Z",
+   "pushed_at": "2026-08-10T10:55:31Z",
    "created_at": "2024-08-29T03:45:28Z",
    "description": "Laminar - open-source observability platform purpose-built for AI agents. YC S24.",
    "topics": [
@@ -537,7 +537,7 @@
     "typescript"
    ],
    "category": "Agent Observability",
-   "momentum": 74,
+   "momentum": 75,
    "rank": 14
   },
   {
@@ -547,12 +547,12 @@
    "url": "https://github.com/liaohch3/claude-tap",
    "owner": "liaohch3",
    "owner_avatar": "https://avatars.githubusercontent.com/u/34056481?v=4",
-   "stars": 2991,
+   "stars": 2996,
    "forks": 257,
-   "open_issues": 20,
+   "open_issues": 21,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-08T19:35:49Z",
+   "pushed_at": "2026-08-09T19:38:52Z",
    "created_at": "2026-02-15T12:51:26Z",
    "description": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.",
    "topics": [
@@ -582,18 +582,59 @@
    "rank": 15
   },
   {
+   "name": "openlit",
+   "full_name": "openlit/openlit",
+   "slug": "openlit-openlit",
+   "url": "https://github.com/openlit/openlit",
+   "owner": "openlit",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/149867240?v=4",
+   "stars": 2678,
+   "forks": 350,
+   "open_issues": 60,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-10T10:36:37Z",
+   "created_at": "2024-01-23T17:40:59Z",
+   "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+   "topics": [
+    "ai-observability",
+    "amd-gpu",
+    "clickhouse",
+    "distributed-tracing",
+    "genai",
+    "gpu-monitoring",
+    "grafana",
+    "langchain",
+    "llmops",
+    "llms",
+    "metrics",
+    "monitoring-tool",
+    "nvidia-smi",
+    "observability",
+    "open-source",
+    "openai",
+    "opentelemetry",
+    "otlp",
+    "python",
+    "tracing"
+   ],
+   "category": "Tracing & Spans",
+   "momentum": 74,
+   "rank": 16
+  },
+  {
    "name": "token-monitor",
    "full_name": "Javis603/token-monitor",
    "slug": "javis603-token-monitor",
    "url": "https://github.com/Javis603/token-monitor",
    "owner": "Javis603",
    "owner_avatar": "https://avatars.githubusercontent.com/u/81982673?v=4",
-   "stars": 1247,
-   "forks": 106,
-   "open_issues": 51,
+   "stars": 1265,
+   "forks": 108,
+   "open_issues": 49,
    "language": "JavaScript",
    "license": "MIT",
-   "pushed_at": "2026-08-09T11:36:23Z",
+   "pushed_at": "2026-08-10T12:02:23Z",
    "created_at": "2026-05-19T09:33:54Z",
    "description": "Local-first desktop widget for tracking token usage, costs, and limits across 28+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.",
    "topics": [
@@ -620,7 +661,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 74,
-   "rank": 16
+   "rank": 17
   },
   {
    "name": "pezzo",
@@ -661,47 +702,6 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 73,
-   "rank": 17
-  },
-  {
-   "name": "openlit",
-   "full_name": "openlit/openlit",
-   "slug": "openlit-openlit",
-   "url": "https://github.com/openlit/openlit",
-   "owner": "openlit",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/149867240?v=4",
-   "stars": 2676,
-   "forks": 349,
-   "open_issues": 60,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-07T19:42:27Z",
-   "created_at": "2024-01-23T17:40:59Z",
-   "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
-   "topics": [
-    "ai-observability",
-    "amd-gpu",
-    "clickhouse",
-    "distributed-tracing",
-    "genai",
-    "gpu-monitoring",
-    "grafana",
-    "langchain",
-    "llmops",
-    "llms",
-    "metrics",
-    "monitoring-tool",
-    "nvidia-smi",
-    "observability",
-    "open-source",
-    "openai",
-    "opentelemetry",
-    "otlp",
-    "python",
-    "tracing"
-   ],
-   "category": "Tracing & Spans",
-   "momentum": 73,
    "rank": 18
   },
   {
@@ -711,7 +711,7 @@
    "url": "https://github.com/parseablehq/parseable",
    "owner": "parseablehq",
    "owner_avatar": "https://avatars.githubusercontent.com/u/94332517?v=4",
-   "stars": 2427,
+   "stars": 2429,
    "forks": 168,
    "open_issues": 23,
    "language": "Rust",
@@ -752,8 +752,8 @@
    "url": "https://github.com/data-infra/cube-studio",
    "owner": "data-infra",
    "owner_avatar": "https://avatars.githubusercontent.com/u/20157705?v=4",
-   "stars": 2401,
-   "forks": 191,
+   "stars": 2406,
+   "forks": 192,
    "open_issues": 27,
    "language": "Python",
    "license": "NOASSERTION",
@@ -789,12 +789,12 @@
    "url": "https://github.com/future-agi/future-agi",
    "owner": "future-agi",
    "owner_avatar": "https://avatars.githubusercontent.com/u/147392366?v=4",
-   "stars": 1630,
-   "forks": 469,
-   "open_issues": 641,
+   "stars": 1636,
+   "forks": 470,
+   "open_issues": 633,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-09T11:37:47Z",
+   "pushed_at": "2026-08-10T11:57:36Z",
    "created_at": "2026-04-23T14:11:31Z",
    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
    "topics": [
@@ -830,12 +830,12 @@
    "url": "https://github.com/databufflabs/databuff",
    "owner": "databufflabs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/184463508?v=4",
-   "stars": 528,
-   "forks": 104,
-   "open_issues": 11,
+   "stars": 538,
+   "forks": 106,
+   "open_issues": 12,
    "language": "Java",
    "license": "AGPL-3.0",
-   "pushed_at": "2026-08-09T10:25:58Z",
+   "pushed_at": "2026-08-10T02:06:21Z",
    "created_at": "2026-06-18T02:06:27Z",
    "description": "AI-native OpenTelemetry APM with multi-agent root-cause analysis across traces, metrics, and service topology",
    "topics": [
@@ -871,7 +871,7 @@
    "url": "https://github.com/AgentOps-AI/agentops",
    "owner": "AgentOps-AI",
    "owner_avatar": "https://avatars.githubusercontent.com/u/140554352?v=4",
-   "stars": 5760,
+   "stars": 5762,
    "forks": 612,
    "open_issues": 176,
    "language": "Python",
@@ -909,8 +909,8 @@
    "url": "https://github.com/beizhu-1209/AIHelms",
    "owner": "beizhu-1209",
    "owner_avatar": "https://avatars.githubusercontent.com/u/266707341?v=4",
-   "stars": 933,
-   "forks": 93,
+   "stars": 935,
+   "forks": 94,
    "open_issues": 2,
    "language": "Python",
    "license": "GPL-3.0",
@@ -942,33 +942,6 @@
    "rank": 24
   },
   {
-   "name": "Tracely",
-   "full_name": "Jwuthri/Tracely",
-   "slug": "jwuthri-tracely",
-   "url": "https://github.com/Jwuthri/Tracely",
-   "owner": "Jwuthri",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/19627509?v=4",
-   "stars": 373,
-   "forks": 5,
-   "open_issues": 21,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-09T07:53:08Z",
-   "created_at": "2026-06-03T16:26:23Z",
-   "description": "Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0.",
-   "topics": [
-    "ai-agents",
-    "ci-cd",
-    "evals",
-    "llm-evaluation",
-    "llm-observability",
-    "llm-ops"
-   ],
-   "category": "Tracing & Spans",
-   "momentum": 69,
-   "rank": 25
-  },
-  {
    "name": "judgeval",
    "full_name": "JudgmentLabs/judgeval",
    "slug": "judgmentlabs-judgeval",
@@ -980,7 +953,7 @@
    "open_issues": 30,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-05T22:00:08Z",
+   "pushed_at": "2026-08-10T00:26:07Z",
    "created_at": "2024-10-25T04:49:15Z",
    "description": "The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement and monitoring.",
    "topics": [
@@ -1001,7 +974,34 @@
     "rl"
    ],
    "category": "Online Evaluation",
-   "momentum": 68,
+   "momentum": 69,
+   "rank": 25
+  },
+  {
+   "name": "Tracely",
+   "full_name": "Jwuthri/Tracely",
+   "slug": "jwuthri-tracely",
+   "url": "https://github.com/Jwuthri/Tracely",
+   "owner": "Jwuthri",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/19627509?v=4",
+   "stars": 373,
+   "forks": 5,
+   "open_issues": 21,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-09T22:11:30Z",
+   "created_at": "2026-06-03T16:26:23Z",
+   "description": "Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Auto-detect, cluster, freeze into hermetic cases, replay in CI for $0.",
+   "topics": [
+    "ai-agents",
+    "ci-cd",
+    "evals",
+    "llm-evaluation",
+    "llm-observability",
+    "llm-ops"
+   ],
+   "category": "Tracing & Spans",
+   "momentum": 69,
    "rank": 26
   },
   {
@@ -1016,7 +1016,7 @@
    "open_issues": 17,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-09T05:33:05Z",
+   "pushed_at": "2026-08-10T02:57:29Z",
    "created_at": "2025-12-16T05:45:30Z",
    "description": "open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more.",
    "topics": [
@@ -1044,8 +1044,8 @@
    "url": "https://github.com/traceroot-ai/traceroot",
    "owner": "traceroot-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/217505287?v=4",
-   "stars": 702,
-   "forks": 206,
+   "stars": 705,
+   "forks": 205,
    "open_issues": 401,
    "language": "TypeScript",
    "license": "NOASSERTION",
@@ -1064,7 +1064,7 @@
     "open-source"
    ],
    "category": "Agent Observability",
-   "momentum": 67,
+   "momentum": 66,
    "rank": 28
   },
   {
@@ -1074,7 +1074,7 @@
    "url": "https://github.com/inferock/inferock-bench",
    "owner": "inferock",
    "owner_avatar": "https://avatars.githubusercontent.com/u/298938219?v=4",
-   "stars": 125,
+   "stars": 122,
    "forks": 49,
    "open_issues": 0,
    "language": "TypeScript",
@@ -1105,7 +1105,7 @@
     "token-counting"
    ],
    "category": "Monitoring & Analytics",
-   "momentum": 66,
+   "momentum": 65,
    "rank": 29
   },
   {
@@ -1135,8 +1135,47 @@
     "testing"
    ],
    "category": "Tracing & Spans",
-   "momentum": 65,
+   "momentum": 64,
    "rank": 30
+  },
+  {
+   "name": "tokentelemetry",
+   "full_name": "VasiHemanth/tokentelemetry",
+   "slug": "vasihemanth-tokentelemetry",
+   "url": "https://github.com/VasiHemanth/tokentelemetry",
+   "owner": "VasiHemanth",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/44475523?v=4",
+   "stars": 306,
+   "forks": 45,
+   "open_issues": 43,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-08-10T07:55:58Z",
+   "created_at": "2026-04-24T06:13:22Z",
+   "description": "Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude Code, Antigravity CLI, Codex & more. 100% local.",
+   "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cost-tracking",
+    "cursor",
+    "dashboard",
+    "developer-tools",
+    "gemini-cli",
+    "github-copilot",
+    "hermes-agent",
+    "llm",
+    "llm-monitoring",
+    "local-first",
+    "observability",
+    "open-source",
+    "token-usage",
+    "tokentelemetry-token-telemetry",
+    "typescript"
+   ],
+   "category": "Agent Observability",
+   "momentum": 64,
+   "rank": 31
   },
   {
    "name": "codex-usage-tracker",
@@ -1147,10 +1186,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/29297119?v=4",
    "stars": 192,
    "forks": 17,
-   "open_issues": 10,
+   "open_issues": 9,
    "language": "Python",
    "license": "MIT",
-   "pushed_at": "2026-08-09T11:34:25Z",
+   "pushed_at": "2026-08-09T19:26:34Z",
    "created_at": "2026-05-17T19:20:06Z",
    "description": "Local-first MCP tools and dashboard for investigating Codex token usage, credits, costs, caching, and thread patterns.",
    "topics": [
@@ -1177,7 +1216,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 64,
-   "rank": 31
+   "rank": 32
   },
   {
    "name": "Doberman-Core",
@@ -1186,12 +1225,12 @@
    "url": "https://github.com/fu351/Doberman-Core",
    "owner": "fu351",
    "owner_avatar": "https://avatars.githubusercontent.com/u/122320084?v=4",
-   "stars": 122,
+   "stars": 123,
    "forks": 18,
-   "open_issues": 57,
+   "open_issues": 51,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-09T07:20:49Z",
+   "pushed_at": "2026-08-10T05:39:26Z",
    "created_at": "2026-06-07T09:23:46Z",
    "description": "Doberman is an AI agent security framework for guardrails, prompt injection defense, runtime policy enforcement, tool-use permissions, agent monitoring, audit logs, LLM safety, autonomous workflow protection and secure AI deployment.",
    "topics": [
@@ -1208,7 +1247,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 64,
-   "rank": 32
+   "rank": 33
   },
   {
    "name": "agents-observe",
@@ -1226,45 +1265,6 @@
    "created_at": "2026-03-26T08:42:14Z",
    "description": "Real-time observability of claude code sessions & multi-agents.",
    "topics": [],
-   "category": "Agent Observability",
-   "momentum": 63,
-   "rank": 33
-  },
-  {
-   "name": "tokentelemetry",
-   "full_name": "VasiHemanth/tokentelemetry",
-   "slug": "vasihemanth-tokentelemetry",
-   "url": "https://github.com/VasiHemanth/tokentelemetry",
-   "owner": "VasiHemanth",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/44475523?v=4",
-   "stars": 305,
-   "forks": 46,
-   "open_issues": 42,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-08-08T13:07:16Z",
-   "created_at": "2026-04-24T06:13:22Z",
-   "description": "Token telemetry dashboard for AI autonomous and coding agents — tracks tokens, sessions, tool calls & reasoning across Hermes agent, Claude Code, Antigravity CLI, Codex & more. 100% local.",
-   "topics": [
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "cost-tracking",
-    "cursor",
-    "dashboard",
-    "developer-tools",
-    "gemini-cli",
-    "github-copilot",
-    "hermes-agent",
-    "llm",
-    "llm-monitoring",
-    "local-first",
-    "observability",
-    "open-source",
-    "token-usage",
-    "tokentelemetry-token-telemetry",
-    "typescript"
-   ],
    "category": "Agent Observability",
    "momentum": 63,
    "rank": 34
@@ -1296,6 +1296,40 @@
    "category": "Drift & ML Monitoring",
    "momentum": 62,
    "rank": 35
+  },
+  {
+   "name": "clearml-agent",
+   "full_name": "clearml/clearml-agent",
+   "slug": "clearml-clearml-agent",
+   "url": "https://github.com/clearml/clearml-agent",
+   "owner": "clearml",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/38647316?v=4",
+   "stars": 310,
+   "forks": 119,
+   "open_issues": 124,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-09T15:48:47Z",
+   "created_at": "2019-10-25T19:17:48Z",
+   "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
+   "topics": [
+    "clearml-agent",
+    "cluster-manager",
+    "deep-learning",
+    "deep-learning-devops",
+    "deeplearning",
+    "devops",
+    "gpu",
+    "k8s",
+    "kubernetes",
+    "llmops",
+    "machine-learning",
+    "mlops",
+    "orchestration"
+   ],
+   "category": "LLMOps Platforms",
+   "momentum": 62,
+   "rank": 36
   },
   {
    "name": "agent-prism",
@@ -1336,38 +1370,56 @@
    ],
    "category": "Tracing & Spans",
    "momentum": 61,
-   "rank": 36
+   "rank": 37
   },
   {
-   "name": "UltraEval-Audio",
-   "full_name": "OpenBMB/UltraEval-Audio",
-   "slug": "openbmb-ultraeval-audio",
-   "url": "https://github.com/OpenBMB/UltraEval-Audio",
-   "owner": "OpenBMB",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/89920203?v=4",
-   "stars": 310,
-   "forks": 24,
-   "open_issues": 4,
+   "name": "opik-mcp",
+   "full_name": "comet-ml/opik-mcp",
+   "slug": "comet-ml-opik-mcp",
+   "url": "https://github.com/comet-ml/opik-mcp",
+   "owner": "comet-ml",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
+   "stars": 216,
+   "forks": 35,
+   "open_issues": 32,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-04T03:43:27Z",
-   "created_at": "2024-11-11T09:41:43Z",
-   "description": "Your faithful, impartial partner for audio evaluation — know yourself, know your rivals. 真实评测，知己知彼。A unified benchmark framework for ASR/TTS/Audio Codec/audio LLM evaluation",
+   "pushed_at": "2026-08-07T19:07:41Z",
+   "created_at": "2025-03-11T16:31:03Z",
+   "description": "Model Context Protocol (MCP) server for Opik, the open-source LLM observability and evaluation platform, built by Comet. Read traces, log scores, and manage prompts from Claude Code, Cursor, or VS Code.",
    "topics": [
-    "asr",
-    "audio-codec",
-    "benchmark",
-    "evaluation",
-    "llm-evaluation",
-    "speech-recognition",
-    "speech-to-speech",
-    "speech-to-text",
-    "tts",
-    "voice-cloning"
+    "claude-code",
+    "generative-ai",
+    "llm-observability",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "opik",
+    "python"
    ],
-   "category": "Online Evaluation",
-   "momentum": 61,
-   "rank": 37
+   "category": "Agent Observability",
+   "momentum": 60,
+   "rank": 38
+  },
+  {
+   "name": "error-discovery-skill",
+   "full_name": "ai-evals-course/error-discovery-skill",
+   "slug": "ai-evals-course-error-discovery-skill",
+   "url": "https://github.com/ai-evals-course/error-discovery-skill",
+   "owner": "ai-evals-course",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/212179421?v=4",
+   "stars": 213,
+   "forks": 19,
+   "open_issues": 1,
+   "language": "",
+   "license": "",
+   "pushed_at": "2026-06-25T18:04:32Z",
+   "created_at": "2026-06-23T22:23:15Z",
+   "description": "Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.",
+   "topics": [],
+   "category": "Tracing & Spans",
+   "momentum": 60,
+   "rank": 39
   },
   {
    "name": "agentcanvas",
@@ -1400,121 +1452,35 @@
     "visualization"
    ],
    "category": "Tracing & Spans",
-   "momentum": 61,
-   "rank": 38
-  },
-  {
-   "name": "opik-mcp",
-   "full_name": "comet-ml/opik-mcp",
-   "slug": "comet-ml-opik-mcp",
-   "url": "https://github.com/comet-ml/opik-mcp",
-   "owner": "comet-ml",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/31487821?v=4",
-   "stars": 216,
-   "forks": 35,
-   "open_issues": 32,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-07T19:07:41Z",
-   "created_at": "2025-03-11T16:31:03Z",
-   "description": "Model Context Protocol (MCP) server for Opik, the open-source LLM observability and evaluation platform, built by Comet. Read traces, log scores, and manage prompts from Claude Code, Cursor, or VS Code.",
-   "topics": [
-    "claude-code",
-    "generative-ai",
-    "llm-observability",
-    "mcp",
-    "mcp-server",
-    "model-context-protocol",
-    "opik",
-    "python"
-   ],
-   "category": "Agent Observability",
-   "momentum": 60,
-   "rank": 39
-  },
-  {
-   "name": "error-discovery-skill",
-   "full_name": "ai-evals-course/error-discovery-skill",
-   "slug": "ai-evals-course-error-discovery-skill",
-   "url": "https://github.com/ai-evals-course/error-discovery-skill",
-   "owner": "ai-evals-course",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/212179421?v=4",
-   "stars": 211,
-   "forks": 19,
-   "open_issues": 1,
-   "language": "",
-   "license": "",
-   "pushed_at": "2026-06-25T18:04:32Z",
-   "created_at": "2026-06-23T22:23:15Z",
-   "description": "Interactive error analysis skill for AI agents. Studies LLM trace datasets, builds a review UI, monitors annotations, categorizes failure modes, proposes new samples.",
-   "topics": [],
-   "category": "Tracing & Spans",
    "momentum": 60,
    "rank": 40
   },
   {
-   "name": "ax",
-   "full_name": "Necmttn/ax",
-   "slug": "necmttn-ax",
-   "url": "https://github.com/Necmttn/ax",
-   "owner": "Necmttn",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5212808?v=4",
-   "stars": 93,
-   "forks": 9,
-   "open_issues": 34,
+   "name": "langfuse-js",
+   "full_name": "langfuse/langfuse-js",
+   "slug": "langfuse-langfuse-js",
+   "url": "https://github.com/langfuse/langfuse-js",
+   "owner": "langfuse",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
+   "stars": 155,
+   "forks": 103,
+   "open_issues": 43,
    "language": "TypeScript",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-08-07T03:53:49Z",
-   "created_at": "2026-05-08T07:34:30Z",
-   "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-09T17:26:18Z",
+   "created_at": "2023-07-02T21:43:44Z",
+   "description": "🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
    "topics": [
-    "agent-memory",
-    "agent-observability",
-    "ai-agents",
-    "bun",
-    "claude-code",
-    "codex",
-    "developer-tools",
-    "effect-ts",
-    "evidence-graph",
-    "llm-observability",
-    "surrealdb",
+    "javascript",
+    "langfuse",
+    "llmops",
+    "observability",
+    "sdk-js",
     "typescript"
    ],
-   "category": "Agent Observability",
+   "category": "Tracing & Spans",
    "momentum": 59,
    "rank": 41
-  },
-  {
-   "name": "MCPSpend",
-   "full_name": "andreisirbu91-lab/MCPSpend",
-   "slug": "andreisirbu91-lab-mcpspend",
-   "url": "https://github.com/andreisirbu91-lab/MCPSpend",
-   "owner": "andreisirbu91-lab",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/255858910?v=4",
-   "stars": 93,
-   "forks": 3,
-   "open_issues": 3,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-07-29T04:51:35Z",
-   "created_at": "2026-05-22T20:05:51Z",
-   "description": "Real-time cost observability for Model Context Protocol (MCP) tool calls. Wraps any MCP server, attributes spend per tool/project/customer. Free tier 25K calls/mo. EU-hosted",
-   "topics": [
-    "ai-agents",
-    "ai-observability",
-    "claude-desktop",
-    "cost-tracking",
-    "cursor",
-    "llm-cost",
-    "mcp",
-    "model-context-protocol",
-    "typescript",
-    "windsurf"
-   ],
-   "category": "Monitoring & Analytics",
-   "momentum": 59,
-   "rank": 42
   },
   {
    "name": "Agent-Blackbox",
@@ -1555,34 +1521,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 59,
-   "rank": 43
-  },
-  {
-   "name": "langfuse-js",
-   "full_name": "langfuse/langfuse-js",
-   "slug": "langfuse-langfuse-js",
-   "url": "https://github.com/langfuse/langfuse-js",
-   "owner": "langfuse",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 155,
-   "forks": 103,
-   "open_issues": 42,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-07T07:54:58Z",
-   "created_at": "2023-07-02T21:43:44Z",
-   "description": "🪢 Langfuse JS/TS SDKs - Instrument your LLM app and get detailed tracing/observability. Works with any LLM or framework",
-   "topics": [
-    "javascript",
-    "langfuse",
-    "llmops",
-    "observability",
-    "sdk-js",
-    "typescript"
-   ],
-   "category": "Tracing & Spans",
-   "momentum": 58,
-   "rank": 44
+   "rank": 42
   },
   {
    "name": "Axon",
@@ -1591,7 +1530,7 @@
    "url": "https://github.com/langchain-tracer/Axon",
    "owner": "langchain-tracer",
    "owner_avatar": "https://avatars.githubusercontent.com/u/237815469?v=4",
-   "stars": 143,
+   "stars": 144,
    "forks": 14,
    "open_issues": 11,
    "language": "TypeScript",
@@ -1613,6 +1552,70 @@
     "typescript"
    ],
    "category": "Tracing & Spans",
+   "momentum": 58,
+   "rank": 43
+  },
+  {
+   "name": "MCPSpend",
+   "full_name": "andreisirbu91-lab/MCPSpend",
+   "slug": "andreisirbu91-lab-mcpspend",
+   "url": "https://github.com/andreisirbu91-lab/MCPSpend",
+   "owner": "andreisirbu91-lab",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/255858910?v=4",
+   "stars": 95,
+   "forks": 3,
+   "open_issues": 3,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-07-29T04:51:35Z",
+   "created_at": "2026-05-22T20:05:51Z",
+   "description": "Real-time cost observability for Model Context Protocol (MCP) tool calls. Wraps any MCP server, attributes spend per tool/project/customer. Free tier 25K calls/mo. EU-hosted",
+   "topics": [
+    "ai-agents",
+    "ai-observability",
+    "claude-desktop",
+    "cost-tracking",
+    "cursor",
+    "llm-cost",
+    "mcp",
+    "model-context-protocol",
+    "typescript",
+    "windsurf"
+   ],
+   "category": "Monitoring & Analytics",
+   "momentum": 58,
+   "rank": 44
+  },
+  {
+   "name": "ax",
+   "full_name": "Necmttn/ax",
+   "slug": "necmttn-ax",
+   "url": "https://github.com/Necmttn/ax",
+   "owner": "Necmttn",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5212808?v=4",
+   "stars": 93,
+   "forks": 9,
+   "open_issues": 34,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-08-07T03:53:49Z",
+   "created_at": "2026-05-08T07:34:30Z",
+   "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
+   "topics": [
+    "agent-memory",
+    "agent-observability",
+    "ai-agents",
+    "bun",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "effect-ts",
+    "evidence-graph",
+    "llm-observability",
+    "surrealdb",
+    "typescript"
+   ],
+   "category": "Agent Observability",
    "momentum": 58,
    "rank": 45
   },
@@ -1763,13 +1766,88 @@
    "rank": 49
   },
   {
+   "name": "cyclops",
+   "full_name": "VectorInstitute/cyclops",
+   "slug": "vectorinstitute-cyclops",
+   "url": "https://github.com/VectorInstitute/cyclops",
+   "owner": "VectorInstitute",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/40637123?v=4",
+   "stars": 95,
+   "forks": 17,
+   "open_issues": 6,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-10T05:39:49Z",
+   "created_at": "2022-02-21T21:15:08Z",
+   "description": "A toolkit for evaluating and monitoring AI models in clinical settings",
+   "topics": [
+    "clinical-data",
+    "clinical-decision-support",
+    "clinical-research",
+    "data-drift",
+    "deep-learning",
+    "drift-detection",
+    "eicu-crd",
+    "electronic-health-record",
+    "electronic-medical-record",
+    "evaluation",
+    "healthcare",
+    "machine-learning",
+    "mimic-iii",
+    "mimic-iv",
+    "model-monitoring",
+    "omop-cdm",
+    "physionet"
+   ],
+   "category": "Drift & ML Monitoring",
+   "momentum": 56,
+   "rank": 50
+  },
+  {
+   "name": "mc-agent-toolkit",
+   "full_name": "monte-carlo-data/mc-agent-toolkit",
+   "slug": "monte-carlo-data-mc-agent-toolkit",
+   "url": "https://github.com/monte-carlo-data/mc-agent-toolkit",
+   "owner": "monte-carlo-data",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/51944801?v=4",
+   "stars": 90,
+   "forks": 6,
+   "open_issues": 6,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-08-10T10:45:38Z",
+   "created_at": "2026-02-25T18:28:07Z",
+   "description": "Official Monte Carlo toolkit for AI coding agents. Skills and plugins that bring data and agent observability — monitoring, triaging, troubleshooting, health checks  — into Claude Code, Cursor, and more.",
+   "topics": [
+    "agent-observability",
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex-skills",
+    "cursor",
+    "data-observability",
+    "data-quality",
+    "mcp",
+    "monte-carlo",
+    "opencode",
+    "skill-md",
+    "skillsmp",
+    "snowflake-coco",
+    "snowflake-cortex",
+    "vscode"
+   ],
+   "category": "Agent Observability",
+   "momentum": 56,
+   "rank": 51
+  },
+  {
    "name": "agent-trace",
    "full_name": "Siddhant-K-code/agent-trace",
    "slug": "siddhant-k-code-agent-trace",
    "url": "https://github.com/Siddhant-K-code/agent-trace",
    "owner": "Siddhant-K-code",
    "owner_avatar": "https://avatars.githubusercontent.com/u/55068936?v=4",
-   "stars": 87,
+   "stars": 88,
    "forks": 6,
    "open_issues": 12,
    "language": "Python",
@@ -1797,7 +1875,50 @@
    ],
    "category": "Agent Observability",
    "momentum": 56,
-   "rank": 50
+   "rank": 52
+  },
+  {
+   "name": "ruby_llm-monitoring",
+   "full_name": "sinaptia/ruby_llm-monitoring",
+   "slug": "sinaptia-ruby-llm-monitoring",
+   "url": "https://github.com/sinaptia/ruby_llm-monitoring",
+   "owner": "sinaptia",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/4379176?v=4",
+   "stars": 97,
+   "forks": 9,
+   "open_issues": 1,
+   "language": "Ruby",
+   "license": "",
+   "pushed_at": "2026-08-04T02:58:32Z",
+   "created_at": "2025-12-11T14:14:33Z",
+   "description": "Monitor your LLM usage within your Rails application.",
+   "topics": [
+    "rails",
+    "ruby-llm"
+   ],
+   "category": "Monitoring & Analytics",
+   "momentum": 55,
+   "rank": 53
+  },
+  {
+   "name": "llm-observability",
+   "full_name": "DataDog/llm-observability",
+   "slug": "datadog-llm-observability",
+   "url": "https://github.com/DataDog/llm-observability",
+   "owner": "DataDog",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/365230?v=4",
+   "stars": 79,
+   "forks": 14,
+   "open_issues": 17,
+   "language": "Jupyter Notebook",
+   "license": "",
+   "pushed_at": "2026-08-10T08:25:46Z",
+   "created_at": "2024-05-22T14:22:39Z",
+   "description": "Learn by example how to instrument Datadog's LLM Observability product",
+   "topics": [],
+   "category": "Tracing & Spans",
+   "momentum": 55,
+   "rank": 54
   },
   {
    "name": "openllmetry-js",
@@ -1831,106 +1952,8 @@
     "typescript"
    ],
    "category": "Tracing & Spans",
-   "momentum": 55,
-   "rank": 51
-  },
-  {
-   "name": "ruby_llm-monitoring",
-   "full_name": "sinaptia/ruby_llm-monitoring",
-   "slug": "sinaptia-ruby-llm-monitoring",
-   "url": "https://github.com/sinaptia/ruby_llm-monitoring",
-   "owner": "sinaptia",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/4379176?v=4",
-   "stars": 97,
-   "forks": 9,
-   "open_issues": 1,
-   "language": "Ruby",
-   "license": "",
-   "pushed_at": "2026-08-04T02:58:32Z",
-   "created_at": "2025-12-11T14:14:33Z",
-   "description": "Monitor your LLM usage within your Rails application.",
-   "topics": [
-    "rails",
-    "ruby-llm"
-   ],
-   "category": "Monitoring & Analytics",
-   "momentum": 55,
-   "rank": 52
-  },
-  {
-   "name": "cyclops",
-   "full_name": "VectorInstitute/cyclops",
-   "slug": "vectorinstitute-cyclops",
-   "url": "https://github.com/VectorInstitute/cyclops",
-   "owner": "VectorInstitute",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/40637123?v=4",
-   "stars": 95,
-   "forks": 17,
-   "open_issues": 4,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-05T14:39:38Z",
-   "created_at": "2022-02-21T21:15:08Z",
-   "description": "A toolkit for evaluating and monitoring AI models in clinical settings",
-   "topics": [
-    "clinical-data",
-    "clinical-decision-support",
-    "clinical-research",
-    "data-drift",
-    "deep-learning",
-    "drift-detection",
-    "eicu-crd",
-    "electronic-health-record",
-    "electronic-medical-record",
-    "evaluation",
-    "healthcare",
-    "machine-learning",
-    "mimic-iii",
-    "mimic-iv",
-    "model-monitoring",
-    "omop-cdm",
-    "physionet"
-   ],
-   "category": "Drift & ML Monitoring",
-   "momentum": 55,
-   "rank": 53
-  },
-  {
-   "name": "mc-agent-toolkit",
-   "full_name": "monte-carlo-data/mc-agent-toolkit",
-   "slug": "monte-carlo-data-mc-agent-toolkit",
-   "url": "https://github.com/monte-carlo-data/mc-agent-toolkit",
-   "owner": "monte-carlo-data",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/51944801?v=4",
-   "stars": 90,
-   "forks": 6,
-   "open_issues": 5,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-08-06T03:25:58Z",
-   "created_at": "2026-02-25T18:28:07Z",
-   "description": "Official Monte Carlo toolkit for AI coding agents. Skills and plugins that bring data and agent observability — monitoring, triaging, troubleshooting, health checks  — into Claude Code, Cursor, and more.",
-   "topics": [
-    "agent-observability",
-    "agent-skills",
-    "ai-agents",
-    "claude-code",
-    "codex-skills",
-    "cursor",
-    "data-observability",
-    "data-quality",
-    "mcp",
-    "monte-carlo",
-    "opencode",
-    "skill-md",
-    "skillsmp",
-    "snowflake-coco",
-    "snowflake-cortex",
-    "vscode"
-   ],
-   "category": "Agent Observability",
-   "momentum": 55,
-   "rank": 54
+   "momentum": 54,
+   "rank": 55
   },
   {
    "name": "spark-dashboard",
@@ -1963,27 +1986,7 @@
     "vllm"
    ],
    "category": "Monitoring & Analytics",
-   "momentum": 55,
-   "rank": 55
-  },
-  {
-   "name": "llm-observability",
-   "full_name": "DataDog/llm-observability",
-   "slug": "datadog-llm-observability",
-   "url": "https://github.com/DataDog/llm-observability",
-   "owner": "DataDog",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/365230?v=4",
-   "stars": 79,
-   "forks": 14,
-   "open_issues": 16,
-   "language": "Jupyter Notebook",
-   "license": "",
-   "pushed_at": "2026-08-07T19:01:46Z",
-   "created_at": "2024-05-22T14:22:39Z",
-   "description": "Learn by example how to instrument Datadog's LLM Observability product",
-   "topics": [],
-   "category": "Tracing & Spans",
-   "momentum": 55,
+   "momentum": 54,
    "rank": 56
   },
   {
@@ -2024,6 +2027,47 @@
    "rank": 57
   },
   {
+   "name": "dunetrace",
+   "full_name": "dunetrace/dunetrace",
+   "slug": "dunetrace-dunetrace",
+   "url": "https://github.com/dunetrace/dunetrace",
+   "owner": "dunetrace",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/262652096?v=4",
+   "stars": 59,
+   "forks": 18,
+   "open_issues": 22,
+   "language": "Python",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-08-10T10:33:26Z",
+   "created_at": "2026-03-06T20:37:57Z",
+   "description": "The runtime reliability layer for AI agents.",
+   "topics": [
+    "agent-monitoring",
+    "agent-observability",
+    "agent-reliability",
+    "agent-tools",
+    "ai-agents",
+    "ai-tools",
+    "analytics",
+    "crewai",
+    "good-first-issue",
+    "langchain",
+    "langdock",
+    "langfuse",
+    "llm-observability",
+    "mcp-server",
+    "monitoring",
+    "observability",
+    "otel",
+    "real-time-monitoring",
+    "semantic-evaluation",
+    "voice-agents"
+   ],
+   "category": "Agent Observability",
+   "momentum": 54,
+   "rank": 58
+  },
+  {
    "name": "oh-my-prompt",
    "full_name": "jiunbae/oh-my-prompt",
    "slug": "jiunbae-oh-my-prompt",
@@ -2032,16 +2076,16 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/7712538?v=4",
    "stars": 58,
    "forks": 4,
-   "open_issues": 0,
+   "open_issues": 1,
    "language": "TypeScript",
    "license": "MIT",
-   "pushed_at": "2026-08-09T09:46:26Z",
+   "pushed_at": "2026-08-10T09:28:57Z",
    "created_at": "2026-02-02T15:28:02Z",
    "description": "Analytics dashboard for Claude Code prompts stored in MinIO",
    "topics": [],
    "category": "Agent Observability",
    "momentum": 54,
-   "rank": 58
+   "rank": 59
   },
   {
    "name": "serve",
@@ -2051,7 +2095,7 @@
    "owner": "jina-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/60539444?v=4",
    "stars": 21863,
-   "forks": 2242,
+   "forks": 2241,
    "open_issues": 27,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2082,7 +2126,7 @@
    ],
    "category": "Tracing & Spans",
    "momentum": 53,
-   "rank": 59
+   "rank": 60
   },
   {
    "name": "langfuse-java",
@@ -2091,7 +2135,7 @@
    "url": "https://github.com/langfuse/langfuse-java",
    "owner": "langfuse",
    "owner_avatar": "https://avatars.githubusercontent.com/u/134601687?v=4",
-   "stars": 71,
+   "stars": 72,
    "forks": 14,
    "open_issues": 8,
    "language": "Java",
@@ -2118,7 +2162,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 53,
-   "rank": 60
+   "rank": 61
   },
   {
    "name": "llmops",
@@ -2142,7 +2186,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 53,
-   "rank": 61
+   "rank": 62
   },
   {
    "name": "gpu-telemetry",
@@ -2179,7 +2223,7 @@
    ],
    "category": "Tracing & Spans",
    "momentum": 53,
-   "rank": 62
+   "rank": 63
   },
   {
    "name": "client_python",
@@ -2211,7 +2255,7 @@
    ],
    "category": "Drift & ML Monitoring",
    "momentum": 53,
-   "rank": 63
+   "rank": 64
   },
   {
    "name": "llmtrace",
@@ -2251,7 +2295,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 53,
-   "rank": 64
+   "rank": 65
   },
   {
    "name": "clawlens",
@@ -2280,7 +2324,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 53,
-   "rank": 65
+   "rank": 66
   },
   {
    "name": "observer",
@@ -2321,7 +2365,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 53,
-   "rank": 66
+   "rank": 67
   },
   {
    "name": "AdaRubrics",
@@ -2347,7 +2391,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 52,
-   "rank": 67
+   "rank": 68
   },
   {
    "name": "heron",
@@ -2356,7 +2400,7 @@
    "url": "https://github.com/Netis/heron",
    "owner": "Netis",
    "owner_avatar": "https://avatars.githubusercontent.com/u/5688247?v=4",
-   "stars": 75,
+   "stars": 77,
    "forks": 9,
    "open_issues": 3,
    "language": "Rust",
@@ -2382,47 +2426,6 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 52,
-   "rank": 68
-  },
-  {
-   "name": "dunetrace",
-   "full_name": "dunetrace/dunetrace",
-   "slug": "dunetrace-dunetrace",
-   "url": "https://github.com/dunetrace/dunetrace",
-   "owner": "dunetrace",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/262652096?v=4",
-   "stars": 59,
-   "forks": 18,
-   "open_issues": 22,
-   "language": "Python",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-08-01T20:22:12Z",
-   "created_at": "2026-03-06T20:37:57Z",
-   "description": "The runtime reliability layer for AI agents.",
-   "topics": [
-    "agent-monitoring",
-    "agent-observability",
-    "agent-reliability",
-    "agent-tools",
-    "ai-agents",
-    "ai-tools",
-    "analytics",
-    "crewai",
-    "good-first-issue",
-    "langchain",
-    "langdock",
-    "langfuse",
-    "llm-observability",
-    "mcp-server",
-    "monitoring",
-    "observability",
-    "otel",
-    "real-time-monitoring",
-    "semantic-evaluation",
-    "voice-agents"
-   ],
-   "category": "Agent Observability",
-   "momentum": 52,
    "rank": 69
   },
   {
@@ -2432,8 +2435,8 @@
    "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
    "owner": "raga-ai-hub",
    "owner_avatar": "https://avatars.githubusercontent.com/u/161833182?v=4",
-   "stars": 16144,
-   "forks": 3570,
+   "stars": 16146,
+   "forks": 3568,
    "open_issues": 33,
    "language": "Python",
    "license": "Apache-2.0",
@@ -2457,67 +2460,6 @@
    "category": "Tracing & Spans",
    "momentum": 51,
    "rank": 70
-  },
-  {
-   "name": "clearml-agent",
-   "full_name": "clearml/clearml-agent",
-   "slug": "clearml-clearml-agent",
-   "url": "https://github.com/clearml/clearml-agent",
-   "owner": "clearml",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/38647316?v=4",
-   "stars": 310,
-   "forks": 119,
-   "open_issues": 124,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-06-08T12:26:49Z",
-   "created_at": "2019-10-25T19:17:48Z",
-   "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler & orchestration solution",
-   "topics": [
-    "clearml-agent",
-    "cluster-manager",
-    "deep-learning",
-    "deep-learning-devops",
-    "deeplearning",
-    "devops",
-    "gpu",
-    "k8s",
-    "kubernetes",
-    "llmops",
-    "machine-learning",
-    "mlops",
-    "orchestration"
-   ],
-   "category": "LLMOps Platforms",
-   "momentum": 51,
-   "rank": 71
-  },
-  {
-   "name": "AIOstack",
-   "full_name": "aurva-io/AIOstack",
-   "slug": "aurva-io-aiostack",
-   "url": "https://github.com/aurva-io/AIOstack",
-   "owner": "aurva-io",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/121385120?v=4",
-   "stars": 62,
-   "forks": 4,
-   "open_issues": 0,
-   "language": "Shell",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T09:27:31Z",
-   "created_at": "2025-08-23T09:31:37Z",
-   "description": "AI runtime inventory: discover shadow AI, trace LLM calls",
-   "topics": [
-    "access-controls",
-    "ai",
-    "ai-observability",
-    "aisecurity",
-    "shadow-ai",
-    "shadow-ai-detector"
-   ],
-   "category": "Tracing & Spans",
-   "momentum": 51,
-   "rank": 72
   },
   {
    "name": "arize-skills",
@@ -2549,7 +2491,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 51,
-   "rank": 73
+   "rank": 71
   },
   {
    "name": "breadcrumb",
@@ -2569,7 +2511,7 @@
    "topics": [],
    "category": "Tracing & Spans",
    "momentum": 51,
-   "rank": 74
+   "rank": 72
   },
   {
    "name": "ai-agent-eval-harness",
@@ -2583,7 +2525,7 @@
    "open_issues": 17,
    "language": "Python",
    "license": "Apache-2.0",
-   "pushed_at": "2026-08-08T20:29:09Z",
+   "pushed_at": "2026-08-09T21:10:43Z",
    "created_at": "2025-07-13T12:40:54Z",
    "description": "The open-source MultiAgentOps evaluation and verification harness for any industry business workflow.",
    "topics": [
@@ -2610,7 +2552,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 51,
-   "rank": 75
+   "rank": 73
   },
   {
    "name": "otellix",
@@ -2624,13 +2566,40 @@
    "open_issues": 0,
    "language": "Go",
    "license": "MIT",
-   "pushed_at": "2026-08-09T11:48:48Z",
+   "pushed_at": "2026-08-09T14:02:08Z",
    "created_at": "2026-03-29T20:48:24Z",
    "description": "OpenTelemetry-native tracing, token tracking, cost attribution, and prompt analytics for Go backends integrating LLMs.",
    "topics": [],
    "category": "Tracing & Spans",
    "momentum": 51,
-   "rank": 76
+   "rank": 74
+  },
+  {
+   "name": "AIOstack",
+   "full_name": "aurva-io/AIOstack",
+   "slug": "aurva-io-aiostack",
+   "url": "https://github.com/aurva-io/AIOstack",
+   "owner": "aurva-io",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/121385120?v=4",
+   "stars": 62,
+   "forks": 4,
+   "open_issues": 0,
+   "language": "Shell",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-21T09:27:31Z",
+   "created_at": "2025-08-23T09:31:37Z",
+   "description": "AI runtime inventory: discover shadow AI, trace LLM calls",
+   "topics": [
+    "access-controls",
+    "ai",
+    "ai-observability",
+    "aisecurity",
+    "shadow-ai",
+    "shadow-ai-detector"
+   ],
+   "category": "Tracing & Spans",
+   "momentum": 50,
+   "rank": 75
   },
   {
    "name": "ampere",
@@ -2668,7 +2637,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 50,
-   "rank": 77
+   "rank": 76
   },
   {
    "name": "tracecraft",
@@ -2701,7 +2670,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 49,
-   "rank": 78
+   "rank": 77
   },
   {
    "name": "vetiver-python",
@@ -2727,7 +2696,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 48,
-   "rank": 79
+   "rank": 78
   },
   {
    "name": "hyperweave",
@@ -2761,7 +2730,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 48,
-   "rank": 80
+   "rank": 79
   },
   {
    "name": "fiddler-examples",
@@ -2785,35 +2754,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 48,
-   "rank": 81
-  },
-  {
-   "name": "hermes-labyrinth",
-   "full_name": "stainlu/hermes-labyrinth",
-   "slug": "stainlu-hermes-labyrinth",
-   "url": "https://github.com/stainlu/hermes-labyrinth",
-   "owner": "stainlu",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/109842185?v=4",
-   "stars": 301,
-   "forks": 23,
-   "open_issues": 3,
-   "language": "HTML",
-   "license": "MIT",
-   "pushed_at": "2026-05-04T12:45:24Z",
-   "created_at": "2026-04-25T15:12:11Z",
-   "description": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
-   "topics": [
-    "agent-observability",
-    "autonomous-agents",
-    "dashboard-plugin",
-    "hackathon",
-    "hermes-agent",
-    "nous-research",
-    "observability"
-   ],
-   "category": "Agent Observability",
-   "momentum": 47,
-   "rank": 82
+   "rank": 80
   },
   {
    "name": "kube-llmops",
@@ -2849,7 +2790,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 47,
-   "rank": 83
+   "rank": 81
   },
   {
    "name": "claudehome",
@@ -2876,6 +2817,64 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 47,
+   "rank": 82
+  },
+  {
+   "name": "agentlens",
+   "full_name": "agentkitai/agentlens",
+   "slug": "agentkitai-agentlens",
+   "url": "https://github.com/agentkitai/agentlens",
+   "owner": "agentkitai",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/261392119?v=4",
+   "stars": 18,
+   "forks": 2,
+   "open_issues": 13,
+   "language": "TypeScript",
+   "license": "MIT",
+   "pushed_at": "2026-08-09T17:13:51Z",
+   "created_at": "2026-02-08T07:24:18Z",
+   "description": "Open-source observability and audit trail platform for AI agents. MCP-native, tamper-evident event logging, real-time dashboard.",
+   "topics": [
+    "agent-observability",
+    "ai-agents",
+    "ai-safety",
+    "hono",
+    "mcp",
+    "model-context-protocol",
+    "observability",
+    "react",
+    "typescript"
+   ],
+   "category": "Agent Observability",
+   "momentum": 47,
+   "rank": 83
+  },
+  {
+   "name": "hermes-labyrinth",
+   "full_name": "stainlu/hermes-labyrinth",
+   "slug": "stainlu-hermes-labyrinth",
+   "url": "https://github.com/stainlu/hermes-labyrinth",
+   "owner": "stainlu",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/109842185?v=4",
+   "stars": 301,
+   "forks": 23,
+   "open_issues": 3,
+   "language": "HTML",
+   "license": "MIT",
+   "pushed_at": "2026-05-04T12:45:24Z",
+   "created_at": "2026-04-25T15:12:11Z",
+   "description": "Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
+   "topics": [
+    "agent-observability",
+    "autonomous-agents",
+    "dashboard-plugin",
+    "hackathon",
+    "hermes-agent",
+    "nous-research",
+    "observability"
+   ],
+   "category": "Agent Observability",
+   "momentum": 46,
    "rank": 84
   },
   {
@@ -2982,36 +2981,6 @@
    "rank": 87
   },
   {
-   "name": "agentlens",
-   "full_name": "agentkitai/agentlens",
-   "slug": "agentkitai-agentlens",
-   "url": "https://github.com/agentkitai/agentlens",
-   "owner": "agentkitai",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/261392119?v=4",
-   "stars": 18,
-   "forks": 2,
-   "open_issues": 11,
-   "language": "TypeScript",
-   "license": "MIT",
-   "pushed_at": "2026-08-02T17:16:20Z",
-   "created_at": "2026-02-08T07:24:18Z",
-   "description": "Open-source observability and audit trail platform for AI agents. MCP-native, tamper-evident event logging, real-time dashboard.",
-   "topics": [
-    "agent-observability",
-    "ai-agents",
-    "ai-safety",
-    "hono",
-    "mcp",
-    "model-context-protocol",
-    "observability",
-    "react",
-    "typescript"
-   ],
-   "category": "Agent Observability",
-   "momentum": 46,
-   "rank": 88
-  },
-  {
    "name": "lucidagentide",
    "full_name": "mlcyclops/lucidagentide",
    "slug": "mlcyclops-lucidagentide",
@@ -3020,7 +2989,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/95702633?v=4",
    "stars": 15,
    "forks": 2,
-   "open_issues": 11,
+   "open_issues": 12,
    "language": "TypeScript",
    "license": "NOASSERTION",
    "pushed_at": "2026-08-04T14:20:39Z",
@@ -3050,7 +3019,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 46,
-   "rank": 89
+   "rank": 88
   },
   {
    "name": "superduper",
@@ -3059,7 +3028,7 @@
    "url": "https://github.com/superduper-io/superduper",
    "owner": "superduper-io",
    "owner_avatar": "https://avatars.githubusercontent.com/u/120034956?v=4",
-   "stars": 5311,
+   "stars": 5313,
    "forks": 545,
    "open_issues": 36,
    "language": "Python",
@@ -3091,7 +3060,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 45,
-   "rank": 90
+   "rank": 89
   },
   {
    "name": "aperture",
@@ -3132,7 +3101,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 45,
-   "rank": 91
+   "rank": 90
   },
   {
    "name": "reactive-agents-ts",
@@ -3173,7 +3142,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 45,
-   "rank": 92
+   "rank": 91
   },
   {
    "name": "deepchecks",
@@ -3208,7 +3177,7 @@
    ],
    "category": "Drift & ML Monitoring",
    "momentum": 44,
-   "rank": 93
+   "rank": 92
   },
   {
    "name": "open-bias",
@@ -3217,7 +3186,7 @@
    "url": "https://github.com/open-bias/open-bias",
    "owner": "open-bias",
    "owner_avatar": "https://avatars.githubusercontent.com/u/270147414?v=4",
-   "stars": 137,
+   "stars": 136,
    "forks": 5,
    "open_issues": 0,
    "language": "Python",
@@ -3249,37 +3218,7 @@
    ],
    "category": "Tracing & Spans",
    "momentum": 44,
-   "rank": 94
-  },
-  {
-   "name": "ATLAS",
-   "full_name": "multi-agent-systems-failure-taxonomy/ATLAS",
-   "slug": "multi-agent-systems-failure-taxonomy-atlas",
-   "url": "https://github.com/multi-agent-systems-failure-taxonomy/ATLAS",
-   "owner": "multi-agent-systems-failure-taxonomy",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/202756969?v=4",
-   "stars": 16,
-   "forks": 3,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-07-21T04:45:02Z",
-   "created_at": "2026-05-27T17:27:06Z",
-   "description": "",
-   "topics": [
-    "agent-evaluation",
-    "agent-observability",
-    "claude-code",
-    "codex",
-    "failure-modes",
-    "llm-agents",
-    "mast",
-    "multi-agent-systems",
-    "taxonomy"
-   ],
-   "category": "Agent Observability",
-   "momentum": 44,
-   "rank": 95
+   "rank": 93
   },
   {
    "name": "costclaw-telemetry",
@@ -3310,7 +3249,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 44,
-   "rank": 96
+   "rank": 94
   },
   {
    "name": "claw-lens",
@@ -3342,7 +3281,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 43,
-   "rank": 97
+   "rank": 95
   },
   {
    "name": "govllm",
@@ -3379,7 +3318,37 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 43,
-   "rank": 98
+   "rank": 96
+  },
+  {
+   "name": "ATLAS",
+   "full_name": "multi-agent-systems-failure-taxonomy/ATLAS",
+   "slug": "multi-agent-systems-failure-taxonomy-atlas",
+   "url": "https://github.com/multi-agent-systems-failure-taxonomy/ATLAS",
+   "owner": "multi-agent-systems-failure-taxonomy",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/202756969?v=4",
+   "stars": 16,
+   "forks": 3,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-07-21T04:45:02Z",
+   "created_at": "2026-05-27T17:27:06Z",
+   "description": "",
+   "topics": [
+    "agent-evaluation",
+    "agent-observability",
+    "claude-code",
+    "codex",
+    "failure-modes",
+    "llm-agents",
+    "mast",
+    "multi-agent-systems",
+    "taxonomy"
+   ],
+   "category": "Agent Observability",
+   "momentum": 43,
+   "rank": 97
   },
   {
    "name": "nannyml",
@@ -3389,7 +3358,7 @@
    "owner": "NannyML",
    "owner_avatar": "https://avatars.githubusercontent.com/u/94110493?v=4",
    "stars": 2148,
-   "forks": 188,
+   "forks": 189,
    "open_issues": 2,
    "language": "Python",
    "license": "Apache-2.0",
@@ -3416,38 +3385,7 @@
    ],
    "category": "Drift & ML Monitoring",
    "momentum": 41,
-   "rank": 99
-  },
-  {
-   "name": "everything-ai",
-   "full_name": "mitunmanav/everything-ai",
-   "slug": "mitunmanav-everything-ai",
-   "url": "https://github.com/mitunmanav/everything-ai",
-   "owner": "mitunmanav",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/238927830?v=4",
-   "stars": 13,
-   "forks": 2,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-07-10T08:43:46Z",
-   "created_at": "2026-06-17T10:57:33Z",
-   "description": "A Codex skill that turns 'do everything' into safe scope, defaults, memory, and AI observability.",
-   "topics": [
-    "agent-memory",
-    "ai-agent",
-    "ai-observability",
-    "codex",
-    "codex-skill",
-    "memory",
-    "non-technical",
-    "non-technical-users",
-    "observability",
-    "skill"
-   ],
-   "category": "LLMOps Platforms",
-   "momentum": 41,
-   "rank": 100
+   "rank": 98
   },
   {
    "name": "clearml-server",
@@ -3482,7 +3420,38 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 40,
-   "rank": 101
+   "rank": 99
+  },
+  {
+   "name": "everything-ai",
+   "full_name": "mitunmanav/everything-ai",
+   "slug": "mitunmanav-everything-ai",
+   "url": "https://github.com/mitunmanav/everything-ai",
+   "owner": "mitunmanav",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/238927830?v=4",
+   "stars": 13,
+   "forks": 2,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-07-10T08:43:46Z",
+   "created_at": "2026-06-17T10:57:33Z",
+   "description": "A Codex skill that turns 'do everything' into safe scope, defaults, memory, and AI observability.",
+   "topics": [
+    "agent-memory",
+    "ai-agent",
+    "ai-observability",
+    "codex",
+    "codex-skill",
+    "memory",
+    "non-technical",
+    "non-technical-users",
+    "observability",
+    "skill"
+   ],
+   "category": "LLMOps Platforms",
+   "momentum": 40,
+   "rank": 100
   },
   {
    "name": "claude-code-hooks-multi-agent-observability",
@@ -3491,7 +3460,7 @@
    "url": "https://github.com/disler/claude-code-hooks-multi-agent-observability",
    "owner": "disler",
    "owner_avatar": "https://avatars.githubusercontent.com/u/7570811?v=4",
-   "stars": 1509,
+   "stars": 1508,
    "forks": 387,
    "open_issues": 29,
    "language": "Python",
@@ -3502,7 +3471,7 @@
    "topics": [],
    "category": "Agent Observability",
    "momentum": 39,
-   "rank": 102
+   "rank": 101
   },
   {
    "name": "langtrace",
@@ -3512,7 +3481,7 @@
    "owner": "Scale3-Labs",
    "owner_avatar": "https://avatars.githubusercontent.com/u/110545750?v=4",
    "stars": 1224,
-   "forks": 125,
+   "forks": 126,
    "open_issues": 1,
    "language": "TypeScript",
    "license": "AGPL-3.0",
@@ -3537,7 +3506,7 @@
    ],
    "category": "Tracing & Spans",
    "momentum": 38,
-   "rank": 103
+   "rank": 102
   },
   {
    "name": "llm.report",
@@ -3571,7 +3540,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 37,
-   "rank": 104
+   "rank": 103
   },
   {
    "name": "langkit",
@@ -3599,7 +3568,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 37,
-   "rank": 105
+   "rank": 104
   },
   {
    "name": "energy-forecasting",
@@ -3608,8 +3577,8 @@
    "url": "https://github.com/iusztinpaul/energy-forecasting",
    "owner": "iusztinpaul",
    "owner_avatar": "https://avatars.githubusercontent.com/u/28981860?v=4",
-   "stars": 980,
-   "forks": 216,
+   "stars": 981,
+   "forks": 217,
    "open_issues": 3,
    "language": "Python",
    "license": "MIT",
@@ -3640,7 +3609,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 36,
-   "rank": 106
+   "rank": 105
   },
   {
    "name": "langcorn",
@@ -3672,7 +3641,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 36,
-   "rank": 107
+   "rank": 106
   },
   {
    "name": "llmops-python-package",
@@ -3692,7 +3661,7 @@
    "topics": [],
    "category": "LLMOps Platforms",
    "momentum": 36,
-   "rank": 108
+   "rank": 107
   },
   {
    "name": "mcp-gateway",
@@ -3731,7 +3700,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 36,
-   "rank": 109
+   "rank": 108
   },
   {
    "name": "artifex",
@@ -3768,6 +3737,26 @@
    ],
    "category": "Online Evaluation",
    "momentum": 35,
+   "rank": 109
+  },
+  {
+   "name": "llm-production-toolkit",
+   "full_name": "frckeepit/llm-production-toolkit",
+   "slug": "frckeepit-llm-production-toolkit",
+   "url": "https://github.com/frckeepit/llm-production-toolkit",
+   "owner": "frckeepit",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/97377185?v=4",
+   "stars": 95,
+   "forks": 9,
+   "open_issues": 0,
+   "language": "Python",
+   "license": "MIT",
+   "pushed_at": "2026-04-09T05:06:19Z",
+   "created_at": "2026-04-09T04:05:09Z",
+   "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment.",
+   "topics": [],
+   "category": "Online Evaluation",
+   "momentum": 34,
    "rank": 110
   },
   {
@@ -3799,61 +3788,8 @@
     "typescript"
    ],
    "category": "LLMOps Platforms",
-   "momentum": 35,
+   "momentum": 34,
    "rank": 111
-  },
-  {
-   "name": "llm-production-toolkit",
-   "full_name": "frckeepit/llm-production-toolkit",
-   "slug": "frckeepit-llm-production-toolkit",
-   "url": "https://github.com/frckeepit/llm-production-toolkit",
-   "owner": "frckeepit",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/97377185?v=4",
-   "stars": 95,
-   "forks": 9,
-   "open_issues": 0,
-   "language": "Python",
-   "license": "MIT",
-   "pushed_at": "2026-04-09T05:06:19Z",
-   "created_at": "2026-04-09T04:05:09Z",
-   "description": "Production-ready toolkit for evaluating, monitoring, and ensuring safety of LLM deployments. Hallucination detection, bias evaluation, feedback loops, and production readiness assessment.",
-   "topics": [],
-   "category": "Online Evaluation",
-   "momentum": 34,
-   "rank": 112
-  },
-  {
-   "name": "aicw-ai-mentions",
-   "full_name": "aicw-io/aicw-ai-mentions",
-   "slug": "aicw-io-aicw-ai-mentions",
-   "url": "https://github.com/aicw-io/aicw-ai-mentions",
-   "owner": "aicw-io",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/232350231?v=4",
-   "stars": 25,
-   "forks": 3,
-   "open_issues": 0,
-   "language": "TypeScript",
-   "license": "NOASSERTION",
-   "pushed_at": "2026-05-13T14:03:03Z",
-   "created_at": "2025-10-08T14:14:37Z",
-   "description": "AICW AI Mentions (formerly AICW Rankings) is an open-source tool that helps online marketers track how often their products are mentioned in responses from popular AI chatbots.",
-   "topics": [
-    "ai-agents",
-    "ai-observability",
-    "ai-transparency",
-    "brand-monitoring",
-    "chatgpt",
-    "claude",
-    "competitive-intelligence",
-    "llm-evaluation",
-    "llm-monitoring",
-    "marketing",
-    "martech",
-    "observability"
-   ],
-   "category": "Online Evaluation",
-   "momentum": 34,
-   "rank": 113
   },
   {
    "name": "aqueduct",
@@ -3888,7 +3824,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 33,
-   "rank": 114
+   "rank": 112
   },
   {
    "name": "continuous-eval",
@@ -3898,8 +3834,8 @@
    "owner": "relari-ai",
    "owner_avatar": "https://avatars.githubusercontent.com/u/135984758?v=4",
    "stars": 514,
-   "forks": 37,
-   "open_issues": 12,
+   "forks": 38,
+   "open_issues": 13,
    "language": "Python",
    "license": "Apache-2.0",
    "pushed_at": "2025-01-22T23:29:16Z",
@@ -3916,7 +3852,40 @@
    ],
    "category": "Online Evaluation",
    "momentum": 33,
-   "rank": 115
+   "rank": 113
+  },
+  {
+   "name": "aicw-ai-mentions",
+   "full_name": "aicw-io/aicw-ai-mentions",
+   "slug": "aicw-io-aicw-ai-mentions",
+   "url": "https://github.com/aicw-io/aicw-ai-mentions",
+   "owner": "aicw-io",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/232350231?v=4",
+   "stars": 25,
+   "forks": 3,
+   "open_issues": 0,
+   "language": "TypeScript",
+   "license": "NOASSERTION",
+   "pushed_at": "2026-05-13T14:03:03Z",
+   "created_at": "2025-10-08T14:14:37Z",
+   "description": "AICW AI Mentions (formerly AICW Rankings) is an open-source tool that helps online marketers track how often their products are mentioned in responses from popular AI chatbots.",
+   "topics": [
+    "ai-agents",
+    "ai-observability",
+    "ai-transparency",
+    "brand-monitoring",
+    "chatgpt",
+    "claude",
+    "competitive-intelligence",
+    "llm-evaluation",
+    "llm-monitoring",
+    "marketing",
+    "martech",
+    "observability"
+   ],
+   "category": "Online Evaluation",
+   "momentum": 33,
+   "rank": 114
   },
   {
    "name": "claude-code-metrics-prometheus",
@@ -3948,7 +3917,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 33,
-   "rank": 116
+   "rank": 115
   },
   {
    "name": "agenttop",
@@ -3979,7 +3948,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 32,
-   "rank": 117
+   "rank": 116
   },
   {
    "name": "llm-leaderboard",
@@ -4005,7 +3974,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 31,
-   "rank": 118
+   "rank": 117
   },
   {
    "name": "palico-ai",
@@ -4045,7 +4014,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 31,
-   "rank": 119
+   "rank": 118
   },
   {
    "name": "llamaduo",
@@ -4068,7 +4037,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 30,
-   "rank": 120
+   "rank": 119
   },
   {
    "name": "model-status",
@@ -4099,7 +4068,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 30,
-   "rank": 121
+   "rank": 120
   },
   {
    "name": "starwhale",
@@ -4132,7 +4101,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 29,
-   "rank": 122
+   "rank": 121
   },
   {
    "name": "PWPAE-Concept-Drift-Detection-and-Adaptation",
@@ -4170,7 +4139,7 @@
    ],
    "category": "Drift & ML Monitoring",
    "momentum": 29,
-   "rank": 123
+   "rank": 122
   },
   {
    "name": "fiddler-auditor",
@@ -4198,7 +4167,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 28,
-   "rank": 124
+   "rank": 123
   },
   {
    "name": "openclaw-trace",
@@ -4226,7 +4195,7 @@
    ],
    "category": "Tracing & Spans",
    "momentum": 28,
-   "rank": 125
+   "rank": 124
   },
   {
    "name": "whitebox",
@@ -4267,7 +4236,7 @@
    ],
    "category": "Drift & ML Monitoring",
    "momentum": 27,
-   "rank": 126
+   "rank": 125
   },
   {
    "name": "llmops-workshop",
@@ -4287,7 +4256,7 @@
    "topics": [],
    "category": "LLMOps Platforms",
    "momentum": 27,
-   "rank": 127
+   "rank": 126
   },
   {
    "name": "example-rag-app",
@@ -4311,7 +4280,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 27,
-   "rank": 128
+   "rank": 127
   },
   {
    "name": "ai-system",
@@ -4337,7 +4306,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 26,
-   "rank": 129
+   "rank": 128
   },
   {
    "name": "athina-sdk",
@@ -4365,7 +4334,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 26,
-   "rank": 130
+   "rank": 129
   },
   {
    "name": "kitchenai",
@@ -4395,7 +4364,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 26,
-   "rank": 131
+   "rank": 130
   },
   {
    "name": "agentwatch",
@@ -4430,7 +4399,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 25,
-   "rank": 132
+   "rank": 131
   },
   {
    "name": "amazon-sagemaker-mlops-workshop",
@@ -4461,7 +4430,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 25,
-   "rank": 133
+   "rank": 132
   },
   {
    "name": "arcadia",
@@ -4492,7 +4461,7 @@
    ],
    "category": "LLMOps Platforms",
    "momentum": 25,
-   "rank": 134
+   "rank": 133
   },
   {
    "name": "ocel-generator",
@@ -4529,7 +4498,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 25,
-   "rank": 135
+   "rank": 134
   },
   {
    "name": "azure-databricks-mlops-mlflow",
@@ -4562,7 +4531,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 24,
-   "rank": 136
+   "rank": 135
   },
   {
    "name": "aitour-llmops-with-gen-ai-tools",
@@ -4582,7 +4551,7 @@
    "topics": [],
    "category": "LLMOps Platforms",
    "momentum": 24,
-   "rank": 137
+   "rank": 136
   },
   {
    "name": "nbox",
@@ -4618,7 +4587,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 24,
-   "rank": 138
+   "rank": 137
   },
   {
    "name": "parea-sdk-py",
@@ -4651,7 +4620,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 23,
-   "rank": 139
+   "rank": 138
   },
   {
    "name": "inferencedb",
@@ -4678,7 +4647,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 23,
-   "rank": 140
+   "rank": 139
   },
   {
    "name": "rag-ops",
@@ -4712,7 +4681,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 23,
-   "rank": 141
+   "rank": 140
   },
   {
    "name": "synapse",
@@ -4738,38 +4707,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 23,
-   "rank": 142
-  },
-  {
-   "name": "polos",
-   "full_name": "polos-dev/polos",
-   "slug": "polos-dev-polos",
-   "url": "https://github.com/polos-dev/polos",
-   "owner": "polos-dev",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/256874677?v=4",
-   "stars": 35,
-   "forks": 4,
-   "open_issues": 13,
-   "language": "TypeScript",
-   "license": "Apache-2.0",
-   "pushed_at": "2026-02-24T19:45:55Z",
-   "created_at": "2026-01-23T21:22:02Z",
-   "description": "The open-source runtime for AI agents. Sandboxed execution with built-in tools, human-in-the-loop approvals, Slack integration, and durable workflows with automatic retries and prompt caching. You write the agent. Polos handles the infrastructure.",
-   "topics": [
-    "agent-orchestration",
-    "agentic-ai",
-    "ai-agents",
-    "ai-observability",
-    "developer-tools",
-    "durable-execution",
-    "human-in-the-loop",
-    "python",
-    "sandbox",
-    "typescript"
-   ],
-   "category": "LLMOps Platforms",
-   "momentum": 22,
-   "rank": 143
+   "rank": 141
   },
   {
    "name": "full-stack-on-prem-cv-mlops",
@@ -4810,7 +4748,7 @@
    ],
    "category": "Drift & ML Monitoring",
    "momentum": 21,
-   "rank": 144
+   "rank": 142
   },
   {
    "name": "myscale-telemetry",
@@ -4836,7 +4774,38 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 21,
-   "rank": 145
+   "rank": 143
+  },
+  {
+   "name": "polos",
+   "full_name": "polos-dev/polos",
+   "slug": "polos-dev-polos",
+   "url": "https://github.com/polos-dev/polos",
+   "owner": "polos-dev",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/256874677?v=4",
+   "stars": 35,
+   "forks": 4,
+   "open_issues": 13,
+   "language": "TypeScript",
+   "license": "Apache-2.0",
+   "pushed_at": "2026-02-24T19:45:55Z",
+   "created_at": "2026-01-23T21:22:02Z",
+   "description": "The open-source runtime for AI agents. Sandboxed execution with built-in tools, human-in-the-loop approvals, Slack integration, and durable workflows with automatic retries and prompt caching. You write the agent. Polos handles the infrastructure.",
+   "topics": [
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "ai-observability",
+    "developer-tools",
+    "durable-execution",
+    "human-in-the-loop",
+    "python",
+    "sandbox",
+    "typescript"
+   ],
+   "category": "LLMOps Platforms",
+   "momentum": 21,
+   "rank": 144
   },
   {
    "name": "voicedoc-agent",
@@ -4877,7 +4846,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 19,
-   "rank": 146
+   "rank": 145
   },
   {
    "name": "agentic-field-manual",
@@ -4910,7 +4879,7 @@
    ],
    "category": "Monitoring & Analytics",
    "momentum": 19,
-   "rank": 147
+   "rank": 146
   },
   {
    "name": "GPT-OSS-MoE-ExpertFingerprinting",
@@ -4951,7 +4920,7 @@
    ],
    "category": "Online Evaluation",
    "momentum": 18,
-   "rank": 148
+   "rank": 147
   },
   {
    "name": "claude_telemetry",
@@ -4984,7 +4953,7 @@
    ],
    "category": "Agent Observability",
    "momentum": 18,
-   "rank": 149
+   "rank": 148
   }
  ]
 }
