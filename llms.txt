@@ -4,48 +4,48 @@
 > analytics, online evaluation, agent observability, and ML / data-drift detection —
 > ranked daily by GitHub momentum.
 
-Updated: 2026-09-08T15:11:33.790136+00:00
-Tools indexed: 157
+Updated: 2026-09-09T15:11:00.939153+00:00
+Tools indexed: 158
 
 ## Top LLM & AI observability tools by momentum
 
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) — momentum 87, ⭐34349 — Tracing & Spans — 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro
-- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 85, ⭐21868 — Tracing & Spans — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — momentum 81, ⭐11374 — Online Evaluation — AI Observability & Evaluation
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) — momentum 78, ⭐7900 — Drift & ML Monitoring — Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI
-- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) — momentum 78, ⭐6194 — Agent Observability — Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenC
-- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) — momentum 78, ⭐5779 — LLMOps Platforms — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
-- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) — momentum 77, ⭐4731 — Agent Observability — Agenta is a workspace where you and your team build agents and automations.
-- [Helicone/helicone](https://github.com/Helicone/helicone) — momentum 76, ⭐6134 — Online Evaluation — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC 
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) — momentum 87, ⭐34401 — Tracing & Spans — 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro
+- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 85, ⭐21895 — Tracing & Spans — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — momentum 81, ⭐11389 — Online Evaluation — AI Observability & Evaluation
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) — momentum 79, ⭐7512 — Monitoring & Analytics — Connect Your Agents And Harnesses With Any Provider 🦚
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) — momentum 78, ⭐7902 — Drift & ML Monitoring — Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) — momentum 78, ⭐6195 — Agent Observability — Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenC
+- [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) — momentum 78, ⭐5889 — LLMOps Platforms — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
+- [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta) — momentum 77, ⭐4735 — Agent Observability — Agenta is a workspace where you and your team build agents and automations.
+- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) — momentum 77, ⭐658 — Agent Observability — Local observability for AI coding agents. Agenttrail Map shows project structure and activity; Agent
+- [Helicone/helicone](https://github.com/Helicone/helicone) — momentum 76, ⭐6139 — Online Evaluation — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC 
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) — momentum 76, ⭐4632 — Agent Observability — Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to 
-- [pydantic/logfire](https://github.com/pydantic/logfire) — momentum 76, ⭐4462 — Agent Observability — AI observability platform for production LLM and agent systems.
-- [sodiumsun/agenttrail](https://github.com/sodiumsun/agenttrail) — momentum 76, ⭐654 — Agent Observability — An infinite canvas for your AI coding agents. Every repo is a region on one zoomable live map - watc
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) — momentum 75, ⭐3235 — Agent Observability — Laminar - open-source observability platform purpose-built for AI agents. YC S24.
-- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — momentum 74, ⭐7418 — Tracing & Spans — Open-source observability for your GenAI or LLM application, based on OpenTelemetry
-- [truera/trulens](https://github.com/truera/trulens) — momentum 74, ⭐3540 — Agent Observability — Evaluation and Tracking for LLM Experiments and AI Agents
+- [pydantic/logfire](https://github.com/pydantic/logfire) — momentum 76, ⭐4466 — Agent Observability — AI observability platform for production LLM and agent systems.
+- [truera/trulens](https://github.com/truera/trulens) — momentum 75, ⭐3542 — Agent Observability — Evaluation and Tracking for LLM Experiments and AI Agents
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) — momentum 75, ⭐3239 — Agent Observability — Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) — momentum 74, ⭐7423 — Tracing & Spans — Open-source observability for your GenAI or LLM application, based on OpenTelemetry
 - [openlit/openlit](https://github.com/openlit/openlit) — momentum 74, ⭐2749 — Agent Observability — Open-source observability & evaluation platform for AI agents and coding agents. Trace LLMs, tools, 
-- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) — momentum 74, ⭐710 — Agent Observability — See what your coding agents did and what it cost. Breaks each task down into work steps — tools used
 - [calmrocks/ai-engineer-notebooks](https://github.com/calmrocks/ai-engineer-notebooks) — momentum 74, ⭐617 — Online Evaluation — Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) — momentum 73, ⭐2453 — Agent Observability — Parseable is an open source, unified infrastructure observability platform built in Rust on a data l
-- [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) — momentum 73, ⭐2412 — Agent Observability — Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with
-- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) — momentum 72, ⭐3181 — Agent Observability — Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, 
-- [future-agi/future-agi](https://github.com/future-agi/future-agi) — momentum 72, ⭐1958 — Tracing & Spans — Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applicati
-- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) — momentum 72, ⭐1217 — Agent Observability — Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Au
-- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) — momentum 71, ⭐3270 — Monitoring & Analytics — 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version manage
-- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — momentum 71, ⭐174 — Agent Observability — OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model
-- [databufflabs/databuff](https://github.com/databufflabs/databuff) — momentum 70, ⭐661 — Tracing & Spans — DataBuff is an AI-native APM built on Opentelemetry，with multi-agent troubleshooting out of the box.
-- [data-infra/cube-studio](https://github.com/data-infra/cube-studio) — momentum 69, ⭐2479 — LLMOps Platforms — cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline
-- [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) — momentum 69, ⭐340 — Agent Observability — Give AI agents eyes, ears, and verifiable results. Watch Skill provides video, audio and screen unde
-- [chigwell/Penelopa.ai](https://github.com/chigwell/Penelopa.ai) — momentum 69, ⭐102 — Agent Observability — Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, 
-- [JudgmentLabs/judgeval](https://github.com/JudgmentLabs/judgeval) — momentum 68, ⭐1060 — Online Evaluation — The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement 
-- [beizhu-1209/AIHelms](https://github.com/beizhu-1209/AIHelms) — momentum 68, ⭐1031 — Monitoring & Analytics — 企业级 AI 资源纳管平台，提供统一 AI网关、Token调度能力，纳管 OpenAI、Azure、Claude、DeepSeek 等主流模型，并支持 MCP 工具与 Skill 的集中注册分发。具备
-- [roy-tong/AgentMeasure](https://github.com/roy-tong/AgentMeasure) — momentum 68, ⭐117 — Agent Observability — Open measurement infrastructure for agent-facing software. Separate operations from attempts, eviden
-- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) — momentum 67, ⭐758 — Agent Observability — TraceRoot - open-source observability and self-improving layer for AI agents. YC S25
-- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) — momentum 66, ⭐676 — LLMOps Platforms — lightweight system-level observability for AI Agents
-- [simple10/agents-observe](https://github.com/simple10/agents-observe) — momentum 66, ⭐668 — Agent Observability — Real-time observability of claude code sessions & multi-agents.
+- [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai) — momentum 73, ⭐2509 — Agent Observability — Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) — momentum 73, ⭐2454 — Agent Observability — Parseable is an open source, unified infrastructure observability platform built in Rust on a data l
+- [mikehasa/agentacct](https://github.com/mikehasa/agentacct) — momentum 73, ⭐713 — Agent Observability — See what your coding agents did and what it cost. Breaks each task down into work steps — tools used
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) — momentum 72, ⭐3185 — Agent Observability — Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, 
+- [future-agi/future-agi](https://github.com/future-agi/future-agi) — momentum 72, ⭐1964 — Tracing & Spans — Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applicati
+- [Jwuthri/Tracely-ai](https://github.com/Jwuthri/Tracely-ai) — momentum 72, ⭐1221 — Agent Observability — Trace-native CI/CD for AI agents — production failures become regression tests that block the PR. Au
+- [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) — momentum 71, ⭐3271 — Monitoring & Analytics — 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version manage
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — momentum 71, ⭐178 — Agent Observability — OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model
+- [databufflabs/databuff](https://github.com/databufflabs/databuff) — momentum 70, ⭐664 — Tracing & Spans — DataBuff is an AI-native APM built on Opentelemetry，with multi-agent troubleshooting out of the box.
+- [data-infra/cube-studio](https://github.com/data-infra/cube-studio) — momentum 69, ⭐2480 — LLMOps Platforms — cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline
+- [JudgmentLabs/judgeval](https://github.com/JudgmentLabs/judgeval) — momentum 69, ⭐1060 — Online Evaluation — The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement 
+- [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill) — momentum 69, ⭐355 — Agent Observability — Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activit
+- [chigwell/Penelopa.ai](https://github.com/chigwell/Penelopa.ai) — momentum 69, ⭐111 — Agent Observability — Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, 
+- [beizhu-1209/AIHelms](https://github.com/beizhu-1209/AIHelms) — momentum 68, ⭐1033 — Monitoring & Analytics — 企业级 AI 资源纳管平台，提供统一 AI网关、Token调度能力，纳管 OpenAI、Azure、Claude、DeepSeek 等主流模型，并支持 MCP 工具与 Skill 的集中注册分发。具备
+- [roy-tong/AgentMeasure](https://github.com/roy-tong/AgentMeasure) — momentum 68, ⭐131 — Agent Observability — Open measurement infrastructure for agent-facing software. Separate operations from attempts, eviden
+- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) — momentum 67, ⭐762 — Agent Observability — TraceRoot - open-source observability and self-improving layer for AI agents. YC S25
+- [eunomia-bpf/agentsight](https://github.com/eunomia-bpf/agentsight) — momentum 66, ⭐678 — LLMOps Platforms — lightweight system-level observability for AI Agents
 - [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) — momentum 65, ⭐783 — Agent Observability — open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agen
-- [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw) — momentum 65, ⭐725 — Tracing & Spans — 🦞 Official plugin for OpenClaw that exports agent traces to Opik. See and monitor agent behaviour, c
+- [simple10/agents-observe](https://github.com/simple10/agents-observe) — momentum 65, ⭐669 — Agent Observability — Real-time observability of claude code sessions & multi-agents.
 - [Waikato/moa](https://github.com/Waikato/moa) — momentum 65, ⭐665 — Drift & ML Monitoring — MOA is an open source framework for Big Data stream mining. It includes a collection of machine lear
-- [Abilityai/trinity](https://github.com/Abilityai/trinity) — momentum 65, ⭐520 — Agent Observability — Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.
-- [lamost423/dsh-maze](https://github.com/lamost423/dsh-maze) — momentum 65, ⭐68 — Agent Observability — DeepSeek Harness 的执行迷宫——看 Agent 真实怎么干活：迷宫时间轴 · 数据轨道 · 确定性执行分析 · 多会话对比 | The execution maze for DSH a
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) — momentum 64, ⭐5811 — Agent Observability — Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most 
+- [Abilityai/trinity](https://github.com/Abilityai/trinity) — momentum 65, ⭐523 — Agent Observability — Self-hosted AI Agents Platform supporting Claude Code, Codex, Gemini agents. Apache 2.0.
+- [lamost423/dsh-maze](https://github.com/lamost423/dsh-maze) — momentum 65, ⭐70 — Agent Observability — DeepSeek Harness 的执行迷宫——看 Agent 真实怎么干活：迷宫时间轴 · 数据轨道 · 确定性执行分析 · 多会话对比 | The execution maze for DSH a
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) — momentum 64, ⭐5813 — Agent Observability — Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most 
