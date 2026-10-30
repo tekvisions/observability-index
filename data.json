@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-30T04:25:55.708105+00:00",
+ "generated_at": "2026-10-30T04:33:29.152238+00:00",
  "count": 158,
  "categories": [
   {
    "name": "Agent Observability",
-   "count": 56
+   "count": 55
   },
   {
    "name": "Monitoring & Analytics",
@@ -12,7 +12,7 @@
   },
   {
    "name": "LLMOps Platforms",
-   "count": 24
+   "count": 25
   },
   {
    "name": "Tracing & Spans",
@@ -381,10 +381,10 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/146763322?v=4",
    "stars": 4999,
    "forks": 422,
-   "open_issues": 388,
+   "open_issues": 389,
    "language": "TypeScript",
    "license": "Apache-2.0",
-   "pushed_at": "2026-10-30T04:20:47Z",
+   "pushed_at": "2026-10-30T04:30:11Z",
    "created_at": "2023-09-09T11:33:18Z",
    "description": "Open-Source Agent Observability & Evals for AI Platform teams. Trace, test, route and govern every agent & coding assistant in the company.",
    "topics": [
@@ -876,7 +876,7 @@
    "url": "https://github.com/ThinkWatchProject/ThinkWatch-Lite",
    "owner": "ThinkWatchProject",
    "owner_avatar": "https://avatars.githubusercontent.com/u/273144823?v=4",
-   "stars": 398,
+   "stars": 399,
    "forks": 9,
    "open_issues": 0,
    "language": "TypeScript",
@@ -1177,7 +1177,7 @@
    "owner_avatar": "https://avatars.githubusercontent.com/u/111646515?v=4",
    "stars": 763,
    "forks": 115,
-   "open_issues": 40,
+   "open_issues": 41,
    "language": "C",
    "license": "MIT",
    "pushed_at": "2026-10-29T16:35:48Z",
@@ -1189,7 +1189,7 @@
     "llm",
     "observability"
    ],
-   "category": "Agent Observability",
+   "category": "LLMOps Platforms",
    "momentum": 66,
    "rank": 31
   },
@@ -2218,6 +2218,39 @@
    "rank": 60
   },
   {
+   "name": "ax",
+   "full_name": "Necmttn/ax",
+   "slug": "necmttn-ax",
+   "url": "https://github.com/Necmttn/ax",
+   "owner": "Necmttn",
+   "owner_avatar": "https://avatars.githubusercontent.com/u/5212808?v=4",
+   "stars": 122,
+   "forks": 14,
+   "open_issues": 42,
+   "language": "TypeScript",
+   "license": "AGPL-3.0",
+   "pushed_at": "2026-10-28T08:57:22Z",
+   "created_at": "2026-05-08T07:34:30Z",
+   "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
+   "topics": [
+    "agent-memory",
+    "agent-observability",
+    "ai-agents",
+    "bun",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "effect-ts",
+    "evidence-graph",
+    "llm-observability",
+    "surrealdb",
+    "typescript"
+   ],
+   "category": "Agent Observability",
+   "momentum": 56,
+   "rank": 61
+  },
+  {
    "name": "tma1",
    "full_name": "tma1-ai/tma1",
    "slug": "tma1-ai-tma1",
@@ -2253,39 +2286,6 @@
     "self-hosted",
     "sql",
     "tracing"
-   ],
-   "category": "Agent Observability",
-   "momentum": 56,
-   "rank": 61
-  },
-  {
-   "name": "ax",
-   "full_name": "Necmttn/ax",
-   "slug": "necmttn-ax",
-   "url": "https://github.com/Necmttn/ax",
-   "owner": "Necmttn",
-   "owner_avatar": "https://avatars.githubusercontent.com/u/5212808?v=4",
-   "stars": 122,
-   "forks": 14,
-   "open_issues": 42,
-   "language": "TypeScript",
-   "license": "AGPL-3.0",
-   "pushed_at": "2026-10-28T08:57:22Z",
-   "created_at": "2026-05-08T07:34:30Z",
-   "description": "the agent experience layer · observability + memory for AI coding agents (Claude Code + Codex) · local-first, typed, yours",
-   "topics": [
-    "agent-memory",
-    "agent-observability",
-    "ai-agents",
-    "bun",
-    "claude-code",
-    "codex",
-    "developer-tools",
-    "effect-ts",
-    "evidence-graph",
-    "llm-observability",
-    "surrealdb",
-    "typescript"
    ],
    "category": "Agent Observability",
    "momentum": 56,
