@@ -32,13 +32,13 @@
   <url><loc>https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/chirpz-ai-pandaprobe/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/eunomia-bpf-agentsight/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/cvs-health-uqlm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/overmind-core-overmind/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/cvs-health-uqlm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/abilityai-trinity/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/waikato-moa/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/sheltercosmo-rilldex-rl-studio/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/waikato-moa/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/oxbshw-watch-skill/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/roy-tong-agentmeasure/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/roy-tong-verovo/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/sodiumsun-agenttrail/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/mikehasa-agentacct/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/vivekchand-clawmetry/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -50,32 +50,32 @@
   <url><loc>https://observability.kymatalabs.com/p/clearml-clearml-agent/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/aa2246740-dsh-watcher/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/alibaba-loongsuite-pilot/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/chigwell-penelopa-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/evilmartians-agent-prism/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/comet-ml-opik-mcp/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/chigwell-penelopa-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/oscar-williams-dsh-deepcanary/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/adaptive-machine-learning-capymoa/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/zizka-ai-sl-zizkadb/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/splunk-token-meter/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/traccia-ai-traccia-py/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/neminov4030034-logfire-trainer-trace/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/simple10-agents-observe/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/douglasmonsky-codex-usage-tracker/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/traccia-ai-traccia-py/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/necmttn-ax/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/adaptive-machine-learning-capymoa/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/tma1-ai-tma1/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/necmttn-ax/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/lamost423-dsh-maze/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/gokumohandas-made-with-ml/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/niklasfrick-spark-dashboard/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/sinaptia-ruby-llm-monitoring/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/siddhant-k-code-agent-trace/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/monte-carlo-data-mc-agent-toolkit/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/agentops-ai-agentops/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/sinaptia-ruby-llm-monitoring/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/vectorinstitute-cyclops/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/datadog-llm-observability/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/tokentopapp-tokentop/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/dosu-ai-decant/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/getaxonflow-axonflow/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/open-bias-open-bias/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/getaxonflow-axonflow/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/byteyellow-agentprovenance/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/netis-heron/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/taewooopark-agent-blackbox/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -86,12 +86,12 @@
   <url><loc>https://observability.kymatalabs.com/p/oluwajubelo1-otellix/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/socket-link-ampere/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/raga-ai-hub-ragaai-catalyst/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/t-sunm-rag-ops/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/joshuaknauber-breadcrumb/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/jehannedussert-govllm/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/jstuart0-agentpulse/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/dunetrace-dunetrace/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/t-sunm-rag-ops/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/fiddler-labs-fiddler-examples/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/dunetrace-dunetrace/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/microsoft-llmops-workshop/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/spanlens-spanlens/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/superduper-io-superduper/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -134,11 +134,11 @@
   <url><loc>https://observability.kymatalabs.com/p/western-oc2-lab-pwpae-concept-drift-detection-and-adaptation/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/squaredev-io-whitebox/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/ajac-zero-example-rag-app/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://observability.kymatalabs.com/p/mitunmanav-everything-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/liguodongiot-ai-system/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/athina-ai-athina-sdk/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/epuerta9-kitchenai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/cyberark-agentwatch/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://observability.kymatalabs.com/p/mitunmanav-everything-ai/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/aws-samples-amazon-sagemaker-mlops-workshop/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/kubeagi-arcadia/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
   <url><loc>https://observability.kymatalabs.com/p/tanaos-artifex/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
