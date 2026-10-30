@@ -4,13 +4,13 @@
 > analytics, online evaluation, agent observability, and ML / data-drift detection —
 > ranked daily by GitHub momentum.
 
-Updated: 2026-10-30T21:34:00.890598+00:00
+Updated: 2026-10-30T21:55:11.569218+00:00
 Tools indexed: 158
 
 ## Top LLM & AI observability tools by momentum
 
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) — momentum 85, ⭐36766 — Tracing & Spans — 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one op
-- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 83, ⭐23049 — Tracing & Spans — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
+- [comet-ml/opik](https://github.com/comet-ml/opik) — momentum 83, ⭐23050 — Tracing & Spans — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehe
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) — momentum 80, ⭐12077 — Online Evaluation — AI Observability & Evaluation
 - [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) — momentum 79, ⭐9824 — LLMOps Platforms — Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 - [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) — momentum 78, ⭐1210 — Tracing & Spans — Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replay
