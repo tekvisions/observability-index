@@ -1,0 +1,59 @@
+{
+  "host": "observability.kymatalabs.com",
+  "reviewed_on": "2026-11-03",
+  "title": "Choose observability tools for the failure you need to explain",
+  "answer": "Separate an individual run trace from aggregate monitoring and from evaluation of answer quality. The catalog includes these overlapping roles; shortlist by the evidence you need to diagnose your application.",
+  "choices": [
+    {
+      "categories": [
+        "Tracing & Spans",
+        "Agent Observability"
+      ],
+      "task": "Explain one failed agent run",
+      "guidance": "Check whether the documented integration records the model/tool sequence, errors and timing needed to reconstruct your workflow. Test a failed tool call as well as a successful run."
+    },
+    {
+      "categories": [
+        "Monitoring & Analytics",
+        "LLMOps Platforms"
+      ],
+      "task": "Track production behavior",
+      "guidance": "Define which latency, error and cost signals matter, then verify export, retention, redaction and deployment options against the selected version."
+    },
+    {
+      "categories": [
+        "Online Evaluation",
+        "Drift & ML Monitoring"
+      ],
+      "task": "Detect a quality change",
+      "guidance": "Choose explicit quality labels or reference data and a review process. A change in a dashboard metric needs investigation before being described as model drift or answer degradation."
+    }
+  ],
+  "checks": [
+    "Verify integration support from primary docs and an application-shaped trace.",
+    "Document sensitive-data handling and retention requirements before sending traces.",
+    "Test sampling/export behavior and operating cost with your own workload."
+  ],
+  "unknowns": "Integration completeness, data-retention guarantees, comparative overhead and evaluation accuracy have not been independently measured here.",
+  "related": [
+    {
+      "url": "https://eval.kymatalabs.com/",
+      "label": "eval"
+    },
+    {
+      "url": "https://agents.kymatalabs.com/",
+      "label": "agents"
+    },
+    {
+      "url": "https://gateway.kymatalabs.com/",
+      "label": "gateway"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Published collection and scoring rules",
+      "url": "https://github.com/tekvisions/observability-index/blob/e69e0b98606d2ff2f3184c436a90434df54a9249/build_data.py",
+      "reviewed_on": "2026-11-03"
+    }
+  ]
+}
