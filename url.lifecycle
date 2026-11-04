@@ -164,8 +164,28 @@
     "https://observability.kymatalabs.com/p/tell-me-mo-openclaw-trace/",
     "https://observability.kymatalabs.com/p/whoisrade-agentic-field-manual/"
   ],
-  "retained_references": [],
+  "retained_references": [
+    {
+      "slug": "inferock-inferock-bench",
+      "entity": "inferock/inferock-bench",
+      "canonical_url": "https://observability.kymatalabs.com/p/inferock-inferock-bench/",
+      "repository": "https://github.com/inferock/inferock-bench",
+      "summary": "A local diagnostic proxy for recording metered LLM API calls and producing usage, failure and billing-evidence receipts for traffic routed through it.",
+      "selection_context": "Consult the publisher documentation when comparing local API-usage diagnostics and receipt formats. Only calls observed by the proxy are covered.",
+      "limitations": "The publisher authors its own grading standard and also offers a hosted product. This reference does not verify example savings, audit an invoice, establish provider billing errors or certify independent benchmark results. Verify licensing, provider-key boundaries and data handling before use.",
+      "last_catalog_snapshot": "2026-11-03T18:29:34.079624+00:00",
+      "reviewed_on": "2026-11-04",
+      "primary_sources": [
+        {
+          "url": "https://github.com/inferock/inferock-bench/blob/main/README.md",
+          "title": "Inferock Bench publisher documentation and measurement limitations"
+        }
+      ]
+    }
+  ],
   "retirements": [],
   "planned_release_urls": [],
-  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate.",
+  "site_name": "The Observability Index",
+  "detail_prefix": "p"
 }
