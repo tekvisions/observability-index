@@ -2,7 +2,7 @@
 
 > The Observability Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-05T18:50:58.044004+00:00
+Snapshot collected: 2026-11-06T18:06:35.790438+00:00
 Current catalog records: 158
 
 ## Sources and interpretation
@@ -60,7 +60,7 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [Sheltercosmo/Rilldex-RL-Studio](https://observability.kymatalabs.com/p/sheltercosmo-rilldex-rl-studio/) — Agent Observability
 - [cvs-health/uqlm](https://observability.kymatalabs.com/p/cvs-health-uqlm/) — Online Evaluation
 - [Jwuthri/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-tracely-ai/) — Agent Observability
-- [mikehasa/agentacct](https://observability.kymatalabs.com/p/mikehasa-agentacct/) — Agent Observability
+- [vivekchand/clawmetry](https://observability.kymatalabs.com/p/vivekchand-clawmetry/) — Agent Observability
 - [oxbshw/watch-skill](https://observability.kymatalabs.com/p/oxbshw-watch-skill/) — Agent Observability
 
 <!-- Kymata discovery capabilities -->
