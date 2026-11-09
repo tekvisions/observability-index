@@ -2,7 +2,7 @@
 
 > The Observability Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-08T17:07:58.771009+00:00
+Snapshot collected: 2026-11-09T21:29:40.780501+00:00
 Current catalog records: 158
 
 ## Sources and interpretation
@@ -41,26 +41,26 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [pezzolabs/pezzo](https://observability.kymatalabs.com/p/pezzolabs-pezzo/) — Monitoring & Analytics
 - [openlit/openlit](https://observability.kymatalabs.com/p/openlit-openlit/) — Agent Observability
 - [ThinkWatchProject/ThinkWatch-Lite](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Agent Observability
-- [Entelligence-AI/agentplay](https://observability.kymatalabs.com/p/entelligence-ai-agentplay/) — Agent Observability
-- [evidentlyai/evidently](https://observability.kymatalabs.com/p/evidentlyai-evidently/) — Drift & ML Monitoring
 - [parseablehq/parseable](https://observability.kymatalabs.com/p/parseablehq-parseable/) — Agent Observability
 - [future-agi/future-agi](https://observability.kymatalabs.com/p/future-agi-future-agi/) — Tracing & Spans
 - [sodiumsun/agenttrail](https://observability.kymatalabs.com/p/sodiumsun-agenttrail/) — Agent Observability
+- [Entelligence-AI/agentplay](https://observability.kymatalabs.com/p/entelligence-ai-agentplay/) — Agent Observability
+- [evidentlyai/evidently](https://observability.kymatalabs.com/p/evidentlyai-evidently/) — Drift & ML Monitoring
 - [traceroot-ai/traceroot](https://observability.kymatalabs.com/p/traceroot-ai-traceroot/) — Agent Observability
-- [calmrocks/ai-engineer-notebooks](https://observability.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — Online Evaluation
 - [scasella/claude-flightdeck](https://observability.kymatalabs.com/p/scasella-claude-flightdeck/) — Agent Observability
 - [Jwuthri/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-tracely-ai/) — Agent Observability
+- [cvs-health/uqlm](https://observability.kymatalabs.com/p/cvs-health-uqlm/) — Online Evaluation
+- [calmrocks/ai-engineer-notebooks](https://observability.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — Online Evaluation
 - [data-infra/cube-studio](https://observability.kymatalabs.com/p/data-infra-cube-studio/) — LLMOps Platforms
 - [JudgmentLabs/judgeval](https://observability.kymatalabs.com/p/judgmentlabs-judgeval/) — Online Evaluation
 - [beizhu-1209/AIHelms](https://observability.kymatalabs.com/p/beizhu-1209-aihelms/) — Monitoring & Analytics
 - [ThinkWatchProject/ThinkWatch](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch/) — Monitoring & Analytics
+- [overmind-core/overmind](https://observability.kymatalabs.com/p/overmind-core-overmind/) — Online Evaluation
 - [Abilityai/trinity](https://observability.kymatalabs.com/p/abilityai-trinity/) — Agent Observability
 - [chirpz-ai/pandaprobe](https://observability.kymatalabs.com/p/chirpz-ai-pandaprobe/) — Agent Observability
-- [overmind-core/overmind](https://observability.kymatalabs.com/p/overmind-core-overmind/) — Online Evaluation
+- [eunomia-bpf/agentsight](https://observability.kymatalabs.com/p/eunomia-bpf-agentsight/) — LLMOps Platforms
 - [Waikato/moa](https://observability.kymatalabs.com/p/waikato-moa/) — Drift & ML Monitoring
 - [Sheltercosmo/Rilldex-RL-Studio](https://observability.kymatalabs.com/p/sheltercosmo-rilldex-rl-studio/) — Agent Observability
-- [cvs-health/uqlm](https://observability.kymatalabs.com/p/cvs-health-uqlm/) — Online Evaluation
-- [eunomia-bpf/agentsight](https://observability.kymatalabs.com/p/eunomia-bpf-agentsight/) — LLMOps Platforms
 - [vivekchand/clawmetry](https://observability.kymatalabs.com/p/vivekchand-clawmetry/) — Agent Observability
 
 <!-- Kymata discovery capabilities -->
