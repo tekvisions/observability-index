@@ -2,8 +2,8 @@
 
 > The Observability Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-09T21:29:40.780501+00:00
-Current catalog records: 158
+Snapshot collected: 2026-11-25T21:00:33.435772+00:00
+Current catalog records: 164
 
 ## Sources and interpretation
 
@@ -22,46 +22,46 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 
 ## Current catalog sample
 
-- [langfuse/langfuse](https://observability.kymatalabs.com/p/langfuse-langfuse/) — Tracing & Spans
+- [langfuse/langfuse](https://observability.kymatalabs.com/p/langfuse-langfuse/) — Agent Observability
 - [comet-ml/opik](https://observability.kymatalabs.com/p/comet-ml-opik/) — Tracing & Spans
+- [rocketride-org/rocketride-server](https://observability.kymatalabs.com/p/rocketride-org-rocketride-server/) — LLMOps Platforms
 - [Arize-ai/phoenix](https://observability.kymatalabs.com/p/arize-ai-phoenix/) — Online Evaluation
 - [MakazhanAlpamys/Soup](https://observability.kymatalabs.com/p/makazhanalpamys-soup/) — LLMOps Platforms
 - [FailproofAI/failproofai](https://observability.kymatalabs.com/p/failproofai-failproofai/) — Agent Observability
+- [alexeyw/lot-map](https://observability.kymatalabs.com/p/alexeyw-lot-map/) — Agent Observability
 - [traceloop/openllmetry](https://observability.kymatalabs.com/p/traceloop-openllmetry/) — Tracing & Spans
-- [jwuthri-cloud/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-cloud-tracely-ai/) — Tracing & Spans
 - [builderz-labs/mission-control](https://observability.kymatalabs.com/p/builderz-labs-mission-control/) — Agent Observability
+- [Helicone/helicone](https://observability.kymatalabs.com/p/helicone-helicone/) — Online Evaluation
 - [langwatch/langwatch](https://observability.kymatalabs.com/p/langwatch-langwatch/) — Agent Observability
 - [Agenta-AI/agenta](https://observability.kymatalabs.com/p/agenta-ai-agenta/) — Agent Observability
 - [latitude-dev/latitude-llm](https://observability.kymatalabs.com/p/latitude-dev-latitude-llm/) — Agent Observability
 - [pydantic/logfire](https://observability.kymatalabs.com/p/pydantic-logfire/) — Agent Observability
-- [Helicone/helicone](https://observability.kymatalabs.com/p/helicone-helicone/) — Online Evaluation
 - [truera/trulens](https://observability.kymatalabs.com/p/truera-trulens/) — Agent Observability
+- [jwuthri-cloud/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-cloud-tracely-ai/) — Tracing & Spans
 - [lmnr-ai/lmnr](https://observability.kymatalabs.com/p/lmnr-ai-lmnr/) — Agent Observability
 - [liaohch3/claude-tap](https://observability.kymatalabs.com/p/liaohch3-claude-tap/) — Agent Observability
-- [pezzolabs/pezzo](https://observability.kymatalabs.com/p/pezzolabs-pezzo/) — Monitoring & Analytics
 - [openlit/openlit](https://observability.kymatalabs.com/p/openlit-openlit/) — Agent Observability
-- [ThinkWatchProject/ThinkWatch-Lite](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Agent Observability
 - [parseablehq/parseable](https://observability.kymatalabs.com/p/parseablehq-parseable/) — Agent Observability
+- [ThinkWatchProject/ThinkWatch-Lite](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Agent Observability
+- [oriliz/agent-crop](https://observability.kymatalabs.com/p/oriliz-agent-crop/) — Agent Observability
 - [future-agi/future-agi](https://observability.kymatalabs.com/p/future-agi-future-agi/) — Tracing & Spans
-- [sodiumsun/agenttrail](https://observability.kymatalabs.com/p/sodiumsun-agenttrail/) — Agent Observability
-- [Entelligence-AI/agentplay](https://observability.kymatalabs.com/p/entelligence-ai-agentplay/) — Agent Observability
-- [evidentlyai/evidently](https://observability.kymatalabs.com/p/evidentlyai-evidently/) — Drift & ML Monitoring
+- [pezzolabs/pezzo](https://observability.kymatalabs.com/p/pezzolabs-pezzo/) — Monitoring & Analytics
 - [traceroot-ai/traceroot](https://observability.kymatalabs.com/p/traceroot-ai-traceroot/) — Agent Observability
+- [yuhuan-dev/antigravity-usage-monitor](https://observability.kymatalabs.com/p/yuhuan-dev-antigravity-usage-monitor/) — Agent Observability
+- [jackulau/coding.sh](https://observability.kymatalabs.com/p/jackulau-coding-sh/) — Agent Observability
+- [Entelligence-AI/agentplay](https://observability.kymatalabs.com/p/entelligence-ai-agentplay/) — Agent Observability
 - [scasella/claude-flightdeck](https://observability.kymatalabs.com/p/scasella-claude-flightdeck/) — Agent Observability
+- [evidentlyai/evidently](https://observability.kymatalabs.com/p/evidentlyai-evidently/) — Drift & ML Monitoring
 - [Jwuthri/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-tracely-ai/) — Agent Observability
-- [cvs-health/uqlm](https://observability.kymatalabs.com/p/cvs-health-uqlm/) — Online Evaluation
-- [calmrocks/ai-engineer-notebooks](https://observability.kymatalabs.com/p/calmrocks-ai-engineer-notebooks/) — Online Evaluation
-- [data-infra/cube-studio](https://observability.kymatalabs.com/p/data-infra-cube-studio/) — LLMOps Platforms
 - [JudgmentLabs/judgeval](https://observability.kymatalabs.com/p/judgmentlabs-judgeval/) — Online Evaluation
+- [sodiumsun/agenttrail](https://observability.kymatalabs.com/p/sodiumsun-agenttrail/) — Agent Observability
 - [beizhu-1209/AIHelms](https://observability.kymatalabs.com/p/beizhu-1209-aihelms/) — Monitoring & Analytics
-- [ThinkWatchProject/ThinkWatch](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch/) — Monitoring & Analytics
-- [overmind-core/overmind](https://observability.kymatalabs.com/p/overmind-core-overmind/) — Online Evaluation
-- [Abilityai/trinity](https://observability.kymatalabs.com/p/abilityai-trinity/) — Agent Observability
+- [Future-Proof-DS/interactive-ai-ml-tools](https://observability.kymatalabs.com/p/future-proof-ds-interactive-ai-ml-tools/) — Drift & ML Monitoring
 - [chirpz-ai/pandaprobe](https://observability.kymatalabs.com/p/chirpz-ai-pandaprobe/) — Agent Observability
+- [ThinkWatchProject/ThinkWatch](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch/) — Monitoring & Analytics
 - [eunomia-bpf/agentsight](https://observability.kymatalabs.com/p/eunomia-bpf-agentsight/) — LLMOps Platforms
-- [Waikato/moa](https://observability.kymatalabs.com/p/waikato-moa/) — Drift & ML Monitoring
-- [Sheltercosmo/Rilldex-RL-Studio](https://observability.kymatalabs.com/p/sheltercosmo-rilldex-rl-studio/) — Agent Observability
-- [vivekchand/clawmetry](https://observability.kymatalabs.com/p/vivekchand-clawmetry/) — Agent Observability
+- [Abilityai/trinity](https://observability.kymatalabs.com/p/abilityai-trinity/) — Agent Observability
+- [overmind-core/overmind](https://observability.kymatalabs.com/p/overmind-core-overmind/) — Online Evaluation
 
 <!-- Kymata discovery capabilities -->
 ## Mission and scope
@@ -82,3 +82,12 @@ Tracing, monitoring and debugging tools for AI systems.
 
 - [Machine-readable capabilities, resources and dated coverage](https://observability.kymatalabs.com/capabilities.json)
 - The capabilities document uses Kymata's descriptive format; it is not a standard agent tool protocol.
+
+## More from Kymata Labs
+Other products from the same publisher. They are not part of this index or its rankings.
+- [Keyspoken](https://keyspoken.com/): On-device dictation for iPhone
+- [Kymata Health](https://kymatahealth.com/): Evidence-based health guides and calculators
+- [CrowLingo](https://crowlingo.org/): American crow call atlas
+- [Verse Made Simple](https://www.versemadesimple.com/): Bible verses in three reading styles
+- [PercentEase](https://percentease.com/): Percentage calculator
+- [Enzo Adventures](https://enzoadventures.com/): Comic stories and coloring books
