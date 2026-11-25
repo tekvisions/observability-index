@@ -181,6 +181,100 @@
           "title": "Inferock Bench publisher documentation and measurement limitations"
         }
       ]
+    },
+    {
+      "slug": "byteyellow-agentprovenance",
+      "entity": "ByteYellow/AgentProvenance",
+      "canonical_url": "https://observability.kymatalabs.com/p/byteyellow-agentprovenance/",
+      "repository": "https://github.com/ByteYellow/AgentProvenance",
+      "summary": "Publisher description of ByteYellow/AgentProvenance: Security-oriented three-axis observability for sandboxed AI agents: model intent, app context, and runtime telemetry into verifiable evidence graphs for risk, forensics, and audit. The saved 2026-11-09 catalog classified it under Agent Observability.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Observability work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T21:29:40.780501+00:00",
+      "reviewed_on": "2026-11-25",
+      "primary_sources": [
+        {
+          "url": "https://github.com/ByteYellow/AgentProvenance/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "aa4dcc6cba0ffec969f05a3d7842bf01d1734705354496631e92982aec3b634f",
+          "blob_sha": "0f855a9f08d641254d81b9fb505d0d1655b6544f"
+        }
+      ]
+    },
+    {
+      "slug": "dosu-ai-decant",
+      "entity": "dosu-ai/decant",
+      "canonical_url": "https://observability.kymatalabs.com/p/dosu-ai-decant/",
+      "repository": "https://github.com/dosu-ai/decant",
+      "summary": "Publisher description of dosu-ai/decant: Local-first analytics for Claude Code, Codex, Gemini CLI, OpenCode, Cursor CLI, GitHub Copilot CLI, and Copilot Chat in VS Code sessions, built by Dosu. The saved 2026-11-09 catalog classified it under Agent Observability.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Observability work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T21:29:40.780501+00:00",
+      "reviewed_on": "2026-11-25",
+      "primary_sources": [
+        {
+          "url": "https://github.com/dosu-ai/decant/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "d87a10edef3bd775a907b07bab24b53d550f5da80419f23c84ee5464701ceba5",
+          "blob_sha": "548ac8f578fe6d8403007598a6ab63ebca3bac28"
+        }
+      ]
+    },
+    {
+      "slug": "dunetrace-dunetrace",
+      "entity": "dunetrace/dunetrace",
+      "canonical_url": "https://observability.kymatalabs.com/p/dunetrace-dunetrace/",
+      "repository": "https://github.com/dunetrace/dunetrace",
+      "summary": "Publisher description of dunetrace/dunetrace: The runtime reliability layer for AI agents. The saved 2026-11-09 catalog classified it under Agent Observability.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Observability work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T21:29:40.780501+00:00",
+      "reviewed_on": "2026-11-25",
+      "primary_sources": [
+        {
+          "url": "https://github.com/dunetrace/dunetrace/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "5ff9feef5e83db612299b5f382ab82510d1f4f5854ecba748336bededf490dab",
+          "blob_sha": "afff03294a001be3ea9e7ab13a2b4f663fb48eda"
+        }
+      ]
+    },
+    {
+      "slug": "jiunbae-oh-my-prompt",
+      "entity": "jiunbae/oh-my-prompt",
+      "canonical_url": "https://observability.kymatalabs.com/p/jiunbae-oh-my-prompt/",
+      "repository": "https://github.com/jiunbae/oh-my-prompt",
+      "summary": "Publisher description of jiunbae/oh-my-prompt: Analytics dashboard for Claude Code prompts stored in MinIO. The saved 2026-11-09 catalog classified it under Agent Observability.",
+      "selection_context": "Use this dated reference to locate the publisher documentation for Agent Observability work, then compare it with the current ranked catalog before choosing a tool.",
+      "limitations": "Dated publisher-documentation check, not an independent runtime, security or performance test. No current rank or momentum score is assigned. Verify current availability, license and requirements.",
+      "last_catalog_snapshot": "2026-11-09T21:29:40.780501+00:00",
+      "reviewed_on": "2026-11-25",
+      "primary_sources": [
+        {
+          "url": "https://github.com/jiunbae/oh-my-prompt/blob/main/README.md",
+          "title": "Publisher README",
+          "evidence_sha256": "9a2ea2d04cbf5818f59aeb4b6c72a186800e61b0fce436d37a7f9612928b6660",
+          "blob_sha": "97e685af005d43d721b07abce907803a93aec3e2"
+        }
+      ]
+    },
+    {
+      "slug": "microsoft-llmops-workshop",
+      "entity": "microsoft/llmops-workshop",
+      "canonical_url": "https://observability.kymatalabs.com/p/microsoft-llmops-workshop/",
+      "repository": "https://github.com/microsoft/llmops-workshop",
+      "summary": "The saved 2026-11-09 catalog classified microsoft/llmops-workshop under LLMOps Platforms and recorded the publisher description: Learn how to build solutions with Large Language Models. The publisher repository returned HTTP 404 on the GitHub API and web page during the 2026-11-25 check; that does not establish whether it was deleted, renamed without a redirect or made private.",
+      "selection_context": "Use this dated reference to trace the previously indexed project and its historical catalog classification; choose a currently available alternative from the ranked catalog.",
+      "limitations": "The publisher repository is currently unavailable, so this reference relies on an archived copy of its page. Current documentation, installation, licensing and maintenance could not be verified because the publisher source is unavailable. No current rank or momentum score is assigned, and no runtime test or benchmark is claimed.",
+      "last_catalog_snapshot": "2026-11-09T21:29:40.780501+00:00",
+      "reviewed_on": "2026-11-25",
+      "primary_sources": [
+        {
+          "url": "https://web.archive.org/web/20251122142811/https://github.com/microsoft/llmops-workshop",
+          "title": "Archived publisher repository page (Wayback Machine capture 2025-11-22)",
+          "evidence_sha256": "dd26a96481f26954cfbc0b7032b85445441b8a21a9efe82e31e7b246ec4c69a9"
+        }
+      ]
     }
   ],
   "retirements": [],
