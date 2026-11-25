@@ -2,7 +2,7 @@
 
 > The Observability Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-25T21:00:33.435772+00:00
+Snapshot collected: 2026-11-25T22:04:45.088077+00:00
 Current catalog records: 164
 
 ## Sources and interpretation
