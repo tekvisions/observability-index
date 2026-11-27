@@ -2,8 +2,8 @@
 
 > The Observability Index: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-26T20:17:17.061787+00:00
-Current catalog records: 165
+Snapshot collected: 2026-11-27T20:03:23.957887+00:00
+Current catalog records: 166
 
 ## Sources and interpretation
 
@@ -29,35 +29,35 @@ Momentum blends log-scaled GitHub stars (55%), push recency decaying over 180 da
 - [MakazhanAlpamys/Soup](https://observability.kymatalabs.com/p/makazhanalpamys-soup/) — LLMOps Platforms
 - [FailproofAI/failproofai](https://observability.kymatalabs.com/p/failproofai-failproofai/) — Agent Observability
 - [alexeyw/lot-map](https://observability.kymatalabs.com/p/alexeyw-lot-map/) — Agent Observability
-- [traceloop/openllmetry](https://observability.kymatalabs.com/p/traceloop-openllmetry/) — Tracing & Spans
+- [traceloop/openllmetry](https://observability.kymatalabs.com/p/traceloop-openllmetry/) — Drift & ML Monitoring
 - [builderz-labs/mission-control](https://observability.kymatalabs.com/p/builderz-labs-mission-control/) — Agent Observability
 - [Helicone/helicone](https://observability.kymatalabs.com/p/helicone-helicone/) — Online Evaluation
 - [langwatch/langwatch](https://observability.kymatalabs.com/p/langwatch-langwatch/) — Agent Observability
 - [Agenta-AI/agenta](https://observability.kymatalabs.com/p/agenta-ai-agenta/) — Agent Observability
 - [latitude-dev/latitude-llm](https://observability.kymatalabs.com/p/latitude-dev-latitude-llm/) — Agent Observability
 - [pydantic/logfire](https://observability.kymatalabs.com/p/pydantic-logfire/) — Agent Observability
-- [jwuthri-cloud/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-cloud-tracely-ai/) — Tracing & Spans
 - [truera/trulens](https://observability.kymatalabs.com/p/truera-trulens/) — Agent Observability
 - [lmnr-ai/lmnr](https://observability.kymatalabs.com/p/lmnr-ai-lmnr/) — Agent Observability
 - [liaohch3/claude-tap](https://observability.kymatalabs.com/p/liaohch3-claude-tap/) — Agent Observability
+- [jwuthri-cloud/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-cloud-tracely-ai/) — Tracing & Spans
+- [yuhuan-dev/antigravity-usage-monitor](https://observability.kymatalabs.com/p/yuhuan-dev-antigravity-usage-monitor/) — Agent Observability
 - [openlit/openlit](https://observability.kymatalabs.com/p/openlit-openlit/) — Agent Observability
 - [parseablehq/parseable](https://observability.kymatalabs.com/p/parseablehq-parseable/) — Agent Observability
-- [yuhuan-dev/antigravity-usage-monitor](https://observability.kymatalabs.com/p/yuhuan-dev-antigravity-usage-monitor/) — Agent Observability
 - [oriliz/agent-crop](https://observability.kymatalabs.com/p/oriliz-agent-crop/) — Agent Observability
 - [future-agi/future-agi](https://observability.kymatalabs.com/p/future-agi-future-agi/) — Tracing & Spans
 - [ThinkWatchProject/ThinkWatch-Lite](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch-lite/) — Agent Observability
 - [pezzolabs/pezzo](https://observability.kymatalabs.com/p/pezzolabs-pezzo/) — Monitoring & Analytics
 - [jackulau/coding.sh](https://observability.kymatalabs.com/p/jackulau-coding-sh/) — Agent Observability
 - [traceroot-ai/traceroot](https://observability.kymatalabs.com/p/traceroot-ai-traceroot/) — Agent Observability
-- [Entelligence-AI/agentplay](https://observability.kymatalabs.com/p/entelligence-ai-agentplay/) — Agent Observability
 - [evidentlyai/evidently](https://observability.kymatalabs.com/p/evidentlyai-evidently/) — Drift & ML Monitoring
-- [Jwuthri/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-tracely-ai/) — Agent Observability
 - [JudgmentLabs/judgeval](https://observability.kymatalabs.com/p/judgmentlabs-judgeval/) — Online Evaluation
 - [beizhu-1209/AIHelms](https://observability.kymatalabs.com/p/beizhu-1209-aihelms/) — Monitoring & Analytics
+- [chirpz-ai/pandaprobe](https://observability.kymatalabs.com/p/chirpz-ai-pandaprobe/) — Agent Observability
+- [Entelligence-AI/agentplay](https://observability.kymatalabs.com/p/entelligence-ai-agentplay/) — Agent Observability
 - [scasella/claude-flightdeck](https://observability.kymatalabs.com/p/scasella-claude-flightdeck/) — Agent Observability
 - [Future-Proof-DS/interactive-ai-ml-tools](https://observability.kymatalabs.com/p/future-proof-ds-interactive-ai-ml-tools/) — Drift & ML Monitoring
+- [Jwuthri/Tracely-ai](https://observability.kymatalabs.com/p/jwuthri-tracely-ai/) — Agent Observability
 - [sodiumsun/agenttrail](https://observability.kymatalabs.com/p/sodiumsun-agenttrail/) — Agent Observability
-- [chirpz-ai/pandaprobe](https://observability.kymatalabs.com/p/chirpz-ai-pandaprobe/) — Agent Observability
 - [ThinkWatchProject/ThinkWatch](https://observability.kymatalabs.com/p/thinkwatchproject-thinkwatch/) — Monitoring & Analytics
 - [Abilityai/trinity](https://observability.kymatalabs.com/p/abilityai-trinity/) — Agent Observability
 - [eunomia-bpf/agentsight](https://observability.kymatalabs.com/p/eunomia-bpf-agentsight/) — LLMOps Platforms
